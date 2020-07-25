@@ -1,0 +1,3012 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.5.31)  25 JUL 2010 00:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**muonjets.tex
+(./muonjets.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@dimlist=\toks15
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen109
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen110
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen118
+\Hy@linkcounter=\count103
+\Hy@pagecounter=\count104
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count105
+\Field@Width=\dimen119
+\Fld@charsize=\dimen120
+\Field@toks=\toks21
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count106
+\c@Item=\count107
+\c@Hfootnote=\count108
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count109
+)
+(/usr/share/texmf-texlive/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count110
+\c@@ppsavesec=\count111
+\c@@ppsaveapp=\count112
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+) (./muonjets.aux)
+\openout1 = `muonjets.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: class default
+landscape: --
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 72.26999pt, 469.75502pt, 72.26999pt
+v-parts: 72.26999pt, 650.43001pt, 72.26999pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  614.295pt
+\paperheight 794.96999pt
+\textwidth  469.75502pt
+\textheight 650.43001pt
+\oddsidemargin  0.0pt
+\evensidemargin 0.0pt
+\topmargin  -37.0pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 44.0pt
+\marginparsep   10.0pt
+\columnsep  10.0pt
+\skip\footins  10.8pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen121
+\scratchbox=\box28
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen122
+\MPnumerator=\count117
+\everyMPtoPDFconversion=\toks23
+)
+Package hyperref Info: Link coloring OFF on input line 16.
+ (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count118
+)
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+ (./muonjets.out)
+(./muonjets.out)
+\@outlinefile=\write3
+\openout3 = `muonjets.out'.
+
+\AtBeginShipoutBox=\box29
+ (./muonjets.toc)
+\tf@toc=\write4
+\openout4 = `muonjets.toc'.
+
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+<fig/acceptance_plot/pt2vseta1_TrackerMuons.pdf, id=94, 315.1775pt x 569.12625p
+t>
+File: fig/acceptance_plot/pt2vseta1_TrackerMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance_plot/pt2vseta1_TrackerMuons.pdf>
+<fig/acceptance_plot/pt2vseta1_GlobalMuons.pdf, id=95, 315.1775pt x 569.12625pt
+>
+File: fig/acceptance_plot/pt2vseta1_GlobalMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance_plot/pt2vseta1_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 70--72
+[][] [] 
+ []
+
+
+<fig/acceptance_plot/pt2vseta1_StandAloneUpdatedDefault.pdf, id=96, 315.1775pt 
+x 569.12625pt>
+File: fig/acceptance_plot/pt2vseta1_StandAloneUpdatedDefault.pdf Graphic file (
+type pdf)
+
+<use fig/acceptance_plot/pt2vseta1_StandAloneUpdatedDefault.pdf>
+<fig/acceptance_plot/pt2vseta1_StandAloneDefault.pdf, id=97, 315.1775pt x 569.1
+2625pt>
+File: fig/acceptance_plot/pt2vseta1_StandAloneDefault.pdf Graphic file (type pd
+f)
+ <use fig/acceptance_plot/pt2vseta1_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 73--75
+[][] [] 
+ []
+
+
+<fig/acceptance_plot/pt2vseta1_StandAloneUpdatedSET.pdf, id=98, 315.1775pt x 56
+9.12625pt>
+File: fig/acceptance_plot/pt2vseta1_StandAloneUpdatedSET.pdf Graphic file (type
+ pdf)
+ <use fig/acceptance_plot/pt2vseta1_StandAloneUpdatedSET.pdf>
+<fig/acceptance_plot/pt2vseta1_StandAloneSET.pdf, id=99, 315.1775pt x 569.12625
+pt>
+File: fig/acceptance_plot/pt2vseta1_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance_plot/pt2vseta1_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 76--78
+[][] [] 
+ []
+
+
+<fig/acceptanceNoMCMatch_plot/pt2vseta1_TrackerMuons.pdf, id=100, 315.1775pt x 
+569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pt2vseta1_TrackerMuons.pdf Graphic file (typ
+e pdf)
+ <use fig/acceptanceNoMCMatch_plot/pt2vseta1_TrackerMuons.pdf>
+<fig/acceptanceNoMCMatch_plot/pt2vseta1_GlobalMuons.pdf, id=101, 315.1775pt x 5
+69.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pt2vseta1_GlobalMuons.pdf Graphic file (type
+ pdf)
+ <use fig/acceptanceNoMCMatch_plot/pt2vseta1_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 87--89
+[][] [] 
+ []
+
+
+<fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneUpdatedDefault.pdf, id=102, 3
+15.1775pt x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneUpdatedDefault.pdf Graph
+ic file (type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneUpdatedDefault.pdf>
+<fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneDefault.pdf, id=103, 315.1775
+pt x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneDefault.pdf Graphic file
+ (type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 90--92
+[][] [] 
+ []
+
+
+<fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneUpdatedSET.pdf, id=104, 315.1
+775pt x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneUpdatedSET.pdf Graphic f
+ile (type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneUpdatedSET.pdf>
+<fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneSET.pdf, id=105, 315.1775pt x
+ 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneSET.pdf Graphic file (ty
+pe pdf)
+ <use fig/acceptanceNoMCMatch_plot/pt2vseta1_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 93--95
+[][] [] 
+ []
+
+
+<fig/acceptance_plot/pt2vseta1_TrackerMuons_denominator.pdf, id=108, 315.1775pt
+ x 569.12625pt>
+File: fig/acceptance_plot/pt2vseta1_TrackerMuons_denominator.pdf Graphic file (
+type pdf)
+
+<use fig/acceptance_plot/pt2vseta1_TrackerMuons_denominator.pdf>
+<fig/acceptance3_plot/pt4vseta1_TrackerMuons.pdf, id=111, 315.1775pt x 569.1262
+5pt>
+File: fig/acceptance3_plot/pt4vseta1_TrackerMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance3_plot/pt4vseta1_TrackerMuons.pdf>
+<fig/acceptance3_plot/pt4vseta1_GlobalMuons.pdf, id=112, 315.1775pt x 569.12625
+pt>
+File: fig/acceptance3_plot/pt4vseta1_GlobalMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance3_plot/pt4vseta1_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 107--109
+[][] [] 
+ []
+
+
+<fig/acceptance_plot/pairptvsmass_TrackerMuons.pdf, id=113, 315.1775pt x 569.12
+625pt>
+File: fig/acceptance_plot/pairptvsmass_TrackerMuons.pdf Graphic file (type pdf)
+
+ <use fig/acceptance_plot/pairptvsmass_TrackerMuons.pdf>
+<fig/acceptance_plot/pairptvsmass_GlobalMuons.pdf, id=114, 315.1775pt x 569.126
+25pt>
+File: fig/acceptance_plot/pairptvsmass_GlobalMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance_plot/pairptvsmass_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 130--132
+[][] [] 
+ []
+
+
+<fig/acceptance_plot/pairptvsmass_StandAloneUpdatedDefault.pdf, id=115, 315.177
+5pt x 569.12625pt>
+File: fig/acceptance_plot/pairptvsmass_StandAloneUpdatedDefault.pdf Graphic fil
+e (type pdf)
+
+<use fig/acceptance_plot/pairptvsmass_StandAloneUpdatedDefault.pdf>
+<fig/acceptance_plot/pairptvsmass_StandAloneDefault.pdf, id=116, 315.1775pt x 5
+69.12625pt>
+File: fig/acceptance_plot/pairptvsmass_StandAloneDefault.pdf Graphic file (type
+ pdf)
+ <use fig/acceptance_plot/pairptvsmass_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 133--135
+[][] [] 
+ []
+
+
+<fig/acceptance_plot/pairptvsmass_StandAloneUpdatedSET.pdf, id=117, 315.1775pt 
+x 569.12625pt>
+File: fig/acceptance_plot/pairptvsmass_StandAloneUpdatedSET.pdf Graphic file (t
+ype pdf)
+ <use fig/acceptance_plot/pairptvsmass_StandAloneUpdatedSET.pdf>
+<fig/acceptance_plot/pairptvsmass_StandAloneSET.pdf, id=118, 315.1775pt x 569.1
+2625pt>
+File: fig/acceptance_plot/pairptvsmass_StandAloneSET.pdf Graphic file (type pdf
+)
+ <use fig/acceptance_plot/pairptvsmass_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 136--138
+[][] [] 
+ []
+
+
+<fig/acceptanceNoMCMatch_plot/pairptvsmass_TrackerMuons.pdf, id=119, 315.1775pt
+ x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairptvsmass_TrackerMuons.pdf Graphic file (
+type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pairptvsmass_TrackerMuons.pdf>
+<fig/acceptanceNoMCMatch_plot/pairptvsmass_GlobalMuons.pdf, id=120, 315.1775pt 
+x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairptvsmass_GlobalMuons.pdf Graphic file (t
+ype pdf)
+ <use fig/acceptanceNoMCMatch_plot/pairptvsmass_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 147--149
+[][] [] 
+ []
+
+
+<fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneUpdatedDefault.pdf, id=121
+, 315.1775pt x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneUpdatedDefault.pdf Gr
+aphic file (type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneUpdatedDefault.pdf>
+<fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneDefault.pdf, id=122, 315.1
+775pt x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneDefault.pdf Graphic f
+ile (type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 150--152
+[][] [] 
+ []
+
+
+<fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneUpdatedSET.pdf, id=123, 31
+5.1775pt x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneUpdatedSET.pdf Graphi
+c file (type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneUpdatedSET.pdf>
+<fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneSET.pdf, id=124, 315.1775p
+t x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneSET.pdf Graphic file 
+(type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 153--155
+[][] [] 
+ []
+
+
+<fig/acceptance_plot/pairptvsmass_TrackerMuons_denominator.pdf, id=127, 315.177
+5pt x 569.12625pt>
+File: fig/acceptance_plot/pairptvsmass_TrackerMuons_denominator.pdf Graphic fil
+e (type pdf)
+
+<use fig/acceptance_plot/pairptvsmass_TrackerMuons_denominator.pdf>
+<fig/acceptance_plot/pairpmagvsmass_TrackerMuons.pdf, id=130, 315.1775pt x 569.
+12625pt>
+File: fig/acceptance_plot/pairpmagvsmass_TrackerMuons.pdf Graphic file (type pd
+f)
+ <use fig/acceptance_plot/pairpmagvsmass_TrackerMuons.pdf>
+<fig/acceptance_plot/pairpmagvsmass_GlobalMuons.pdf, id=131, 315.1775pt x 569.1
+2625pt>
+File: fig/acceptance_plot/pairpmagvsmass_GlobalMuons.pdf Graphic file (type pdf
+)
+ <use fig/acceptance_plot/pairpmagvsmass_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 169--171
+[][] [] 
+ []
+
+
+<fig/acceptance_plot/pairpmagvsmass_StandAloneUpdatedDefault.pdf, id=132, 315.1
+775pt x 569.12625pt>
+File: fig/acceptance_plot/pairpmagvsmass_StandAloneUpdatedDefault.pdf Graphic f
+ile (type pdf)
+
+<use fig/acceptance_plot/pairpmagvsmass_StandAloneUpdatedDefault.pdf>
+<fig/acceptance_plot/pairpmagvsmass_StandAloneDefault.pdf, id=133, 315.1775pt x
+ 569.12625pt>
+File: fig/acceptance_plot/pairpmagvsmass_StandAloneDefault.pdf Graphic file (ty
+pe pdf)
+ <use fig/acceptance_plot/pairpmagvsmass_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 172--174
+[][] [] 
+ []
+
+
+<fig/acceptance_plot/pairpmagvsmass_StandAloneUpdatedSET.pdf, id=134, 315.1775p
+t x 569.12625pt>
+File: fig/acceptance_plot/pairpmagvsmass_StandAloneUpdatedSET.pdf Graphic file 
+(type pdf)
+
+<use fig/acceptance_plot/pairpmagvsmass_StandAloneUpdatedSET.pdf>
+<fig/acceptance_plot/pairpmagvsmass_StandAloneSET.pdf, id=135, 315.1775pt x 569
+.12625pt>
+File: fig/acceptance_plot/pairpmagvsmass_StandAloneSET.pdf Graphic file (type p
+df)
+ <use fig/acceptance_plot/pairpmagvsmass_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 175--177
+[][] [] 
+ []
+
+
+<fig/acceptanceNoMCMatch_plot/pairpmagvsmass_TrackerMuons.pdf, id=136, 315.1775
+pt x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairpmagvsmass_TrackerMuons.pdf Graphic file
+ (type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pairpmagvsmass_TrackerMuons.pdf>
+<fig/acceptanceNoMCMatch_plot/pairpmagvsmass_GlobalMuons.pdf, id=137, 315.1775p
+t x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairpmagvsmass_GlobalMuons.pdf Graphic file 
+(type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pairpmagvsmass_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 187--189
+[][] [] 
+ []
+
+
+<fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneUpdatedDefault.pdf, id=1
+38, 315.1775pt x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneUpdatedDefault.pdf 
+Graphic file (type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneUpdatedDefault.pdf>
+<fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneDefault.pdf, id=139, 315
+.1775pt x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneDefault.pdf Graphic
+ file (type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 190--192
+[][] [] 
+ []
+
+
+<fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneUpdatedSET.pdf, id=140, 
+315.1775pt x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneUpdatedSET.pdf Grap
+hic file (type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneUpdatedSET.pdf>
+<fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneSET.pdf, id=141, 315.177
+5pt x 569.12625pt>
+File: fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneSET.pdf Graphic fil
+e (type pdf)
+
+<use fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 193--195
+[][] [] 
+ []
+
+
+<fig/acceptance_plot/pairpmagvsmass_TrackerMuons_denominator.pdf, id=144, 315.1
+775pt x 569.12625pt>
+File: fig/acceptance_plot/pairpmagvsmass_TrackerMuons_denominator.pdf Graphic f
+ile (type pdf)
+
+<use fig/acceptance_plot/pairpmagvsmass_TrackerMuons_denominator.pdf>
+<fig/acceptance6_plot/vsdR_TrackerMuons.pdf, id=147, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsdR_TrackerMuons.pdf Graphic file (type pdf)
+
+<use fig/acceptance6_plot/vsdR_TrackerMuons.pdf>
+<fig/acceptance6_plot/vsmass_TrackerMuons.pdf, id=148, 315.1775pt x 569.12625pt
+>
+File: fig/acceptance6_plot/vsmass_TrackerMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance6_plot/vsmass_TrackerMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 207--209
+[][] [] 
+ []
+
+
+<fig/acceptance6_plot/vsdR_StandAloneDefault.pdf, id=149, 315.1775pt x 569.1262
+5pt>
+File: fig/acceptance6_plot/vsdR_StandAloneDefault.pdf Graphic file (type pdf)
+ <use fig/acceptance6_plot/vsdR_StandAloneDefault.pdf>
+<fig/acceptance6_plot/vsmass_StandAloneDefault.pdf, id=150, 315.1775pt x 569.12
+625pt>
+File: fig/acceptance6_plot/vsmass_StandAloneDefault.pdf Graphic file (type pdf)
+
+ <use fig/acceptance6_plot/vsmass_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 216--218
+[][] [] 
+ []
+
+
+<fig/acceptance6_plot/vsdR_StandAloneUpdatedDefault.pdf, id=151, 315.1775pt x 5
+69.12625pt>
+File: fig/acceptance6_plot/vsdR_StandAloneUpdatedDefault.pdf Graphic file (type
+ pdf)
+ <use fig/acceptance6_plot/vsdR_StandAloneUpdatedDefault.pdf>
+<fig/acceptance6_plot/vsmass_StandAloneUpdatedDefault.pdf, id=152, 315.1775pt x
+ 569.12625pt>
+File: fig/acceptance6_plot/vsmass_StandAloneUpdatedDefault.pdf Graphic file (ty
+pe pdf)
+ <use fig/acceptance6_plot/vsmass_StandAloneUpdatedDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 225--227
+[][] [] 
+ []
+
+
+<fig/acceptance6_plot/vsdR_StandAloneSET.pdf, id=153, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsdR_StandAloneSET.pdf Graphic file (type pdf)
+<use fig/acceptance6_plot/vsdR_StandAloneSET.pdf>
+<fig/acceptance6_plot/vsmass_StandAloneSET.pdf, id=154, 315.1775pt x 569.12625p
+t>
+File: fig/acceptance6_plot/vsmass_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance6_plot/vsmass_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 234--236
+[][] [] 
+ []
+
+
+<fig/acceptance6_plot/vsdR_StandAloneUpdatedSET.pdf, id=155, 315.1775pt x 569.1
+2625pt>
+File: fig/acceptance6_plot/vsdR_StandAloneUpdatedSET.pdf Graphic file (type pdf
+)
+ <use fig/acceptance6_plot/vsdR_StandAloneUpdatedSET.pdf>
+<fig/acceptance6_plot/vsmass_StandAloneUpdatedSET.pdf, id=156, 315.1775pt x 569
+.12625pt>
+File: fig/acceptance6_plot/vsmass_StandAloneUpdatedSET.pdf Graphic file (type p
+df)
+ <use fig/acceptance6_plot/vsmass_StandAloneUpdatedSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 243--245
+[][] [] 
+ []
+
+<fig/acceptance6_plot/vsdR_GlobalMuons.pdf, id=157, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsdR_GlobalMuons.pdf Graphic file (type pdf)
+
+<use fig/acceptance6_plot/vsdR_GlobalMuons.pdf>
+<fig/acceptance6_plot/vsmass_GlobalMuons.pdf, id=158, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsmass_GlobalMuons.pdf Graphic file (type pdf)
+<use fig/acceptance6_plot/vsmass_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 252--254
+[][] [] 
+ []
+
+[3
+
+] [4 <./fig/acceptance_plot/pt2vseta1_TrackerMuons.pdf> <./fig/acceptance_plot/
+pt2vseta1_GlobalMuons.pdf> <./fig/acceptance_plot/pt2vseta1_StandAloneUpdatedDe
+fault.pdf> <./fig/acceptance_plot/pt2vseta1_StandAloneDefault.pdf> <./fig/accep
+tance_plot/pt2vseta1_StandAloneUpdatedSET.pdf> <./fig/acceptance_plot/pt2vseta1
+_StandAloneSET.pdf>] [5 <./fig/acceptanceNoMCMatch_plot/pt2vseta1_TrackerMuons.
+pdf> <./fig/acceptanceNoMCMatch_plot/pt2vseta1_GlobalMuons.pdf> <./fig/acceptan
+ceNoMCMatch_plot/pt2vseta1_StandAloneUpdatedDefault.pdf> <./fig/acceptanceNoMCM
+atch_plot/pt2vseta1_StandAloneDefault.pdf> <./fig/acceptanceNoMCMatch_plot/pt2v
+seta1_StandAloneUpdatedSET.pdf> <./fig/acceptanceNoMCMatch_plot/pt2vseta1_Stand
+AloneSET.pdf> <./fig/acceptance_plot/pt2vseta1_TrackerMuons_denominator.pdf>] [
+6 <./fig/acceptance3_plot/pt4vseta1_TrackerMuons.pdf> <./fig/acceptance3_plot/p
+t4vseta1_GlobalMuons.pdf> <./fig/acceptance_plot/pairptvsmass_TrackerMuons.pdf>
+ <./fig/acceptance_plot/pairptvsmass_GlobalMuons.pdf> <./fig/acceptance_plot/pa
+irptvsmass_StandAloneUpdatedDefault.pdf> <./fig/acceptance_plot/pairptvsmass_St
+andAloneDefault.pdf> <./fig/acceptance_plot/pairptvsmass_StandAloneUpdatedSET.p
+df> <./fig/acceptance_plot/pairptvsmass_StandAloneSET.pdf>] [7 <./fig/acceptanc
+eNoMCMatch_plot/pairptvsmass_TrackerMuons.pdf> <./fig/acceptanceNoMCMatch_plot/
+pairptvsmass_GlobalMuons.pdf> <./fig/acceptanceNoMCMatch_plot/pairptvsmass_Stan
+dAloneUpdatedDefault.pdf> <./fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAlo
+neDefault.pdf> <./fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneUpdatedSE
+T.pdf> <./fig/acceptanceNoMCMatch_plot/pairptvsmass_StandAloneSET.pdf> <./fig/a
+cceptance_plot/pairptvsmass_TrackerMuons_denominator.pdf>] [8 <./fig/acceptance
+_plot/pairpmagvsmass_TrackerMuons.pdf> <./fig/acceptance_plot/pairpmagvsmass_Gl
+obalMuons.pdf> <./fig/acceptance_plot/pairpmagvsmass_StandAloneUpdatedDefault.p
+df> <./fig/acceptance_plot/pairpmagvsmass_StandAloneDefault.pdf> <./fig/accepta
+nce_plot/pairpmagvsmass_StandAloneUpdatedSET.pdf> <./fig/acceptance_plot/pairpm
+agvsmass_StandAloneSET.pdf>] [9 <./fig/acceptanceNoMCMatch_plot/pairpmagvsmass_
+TrackerMuons.pdf> <./fig/acceptanceNoMCMatch_plot/pairpmagvsmass_GlobalMuons.pd
+f> <./fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneUpdatedDefault.pdf>
+ <./fig/acceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneDefault.pdf> <./fig/a
+cceptanceNoMCMatch_plot/pairpmagvsmass_StandAloneUpdatedSET.pdf> <./fig/accepta
+nceNoMCMatch_plot/pairpmagvsmass_StandAloneSET.pdf> <./fig/acceptance_plot/pair
+pmagvsmass_TrackerMuons_denominator.pdf>] [10 <./fig/acceptance6_plot/vsdR_Trac
+kerMuons.pdf> <./fig/acceptance6_plot/vsmass_TrackerMuons.pdf> <./fig/acceptanc
+e6_plot/vsdR_StandAloneDefault.pdf> <./fig/acceptance6_plot/vsmass_StandAloneDe
+fault.pdf> <./fig/acceptance6_plot/vsdR_StandAloneUpdatedDefault.pdf> <./fig/ac
+ceptance6_plot/vsmass_StandAloneUpdatedDefault.pdf>] [11 <./fig/acceptance6_plo
+t/vsdR_StandAloneSET.pdf> <./fig/acceptance6_plot/vsmass_StandAloneSET.pdf> <./
+fig/acceptance6_plot/vsdR_StandAloneUpdatedSET.pdf> <./fig/acceptance6_plot/vsm
+ass_StandAloneUpdatedSET.pdf> <./fig/acceptance6_plot/vsdR_GlobalMuons.pdf> <./
+fig/acceptance6_plot/vsmass_GlobalMuons.pdf>]
+<fig/acceptance7_plot/mb1_TrackerMuons.pdf, id=2439, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/mb1_TrackerMuons.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/mb1_TrackerMuons.pdf>
+<fig/acceptance7_plot/mb1_GlobalMuons.pdf, id=2440, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/mb1_GlobalMuons.pdf Graphic file (type pdf)
+
+<use fig/acceptance7_plot/mb1_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 263--265
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/mb1_StandAloneUpdatedDefault.pdf, id=2441, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance7_plot/mb1_StandAloneUpdatedDefault.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance7_plot/mb1_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/mb1_StandAloneDefault.pdf, id=2442, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance7_plot/mb1_StandAloneDefault.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/mb1_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 266--268
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/mb1_StandAloneUpdatedSET.pdf, id=2443, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance7_plot/mb1_StandAloneUpdatedSET.pdf Graphic file (type pdf)
+
+ <use fig/acceptance7_plot/mb1_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/mb1_StandAloneSET.pdf, id=2444, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/mb1_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/mb1_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 269--271
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/mb2_TrackerMuons.pdf, id=2445, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/mb2_TrackerMuons.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/mb2_TrackerMuons.pdf>
+<fig/acceptance7_plot/mb2_GlobalMuons.pdf, id=2446, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/mb2_GlobalMuons.pdf Graphic file (type pdf)
+
+<use fig/acceptance7_plot/mb2_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 288--290
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/mb2_StandAloneUpdatedDefault.pdf, id=2447, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance7_plot/mb2_StandAloneUpdatedDefault.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance7_plot/mb2_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/mb2_StandAloneDefault.pdf, id=2448, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance7_plot/mb2_StandAloneDefault.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/mb2_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 291--293
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/mb2_StandAloneUpdatedSET.pdf, id=2449, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance7_plot/mb2_StandAloneUpdatedSET.pdf Graphic file (type pdf)
+
+ <use fig/acceptance7_plot/mb2_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/mb2_StandAloneSET.pdf, id=2450, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/mb2_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/mb2_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 294--296
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/mb3_TrackerMuons.pdf, id=2451, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/mb3_TrackerMuons.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/mb3_TrackerMuons.pdf>
+<fig/acceptance7_plot/mb3_GlobalMuons.pdf, id=2452, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/mb3_GlobalMuons.pdf Graphic file (type pdf)
+
+<use fig/acceptance7_plot/mb3_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 308--310
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/mb3_StandAloneUpdatedDefault.pdf, id=2453, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance7_plot/mb3_StandAloneUpdatedDefault.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance7_plot/mb3_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/mb3_StandAloneDefault.pdf, id=2454, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance7_plot/mb3_StandAloneDefault.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/mb3_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 311--313
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/mb3_StandAloneUpdatedSET.pdf, id=2455, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance7_plot/mb3_StandAloneUpdatedSET.pdf Graphic file (type pdf)
+
+ <use fig/acceptance7_plot/mb3_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/mb3_StandAloneSET.pdf, id=2456, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/mb3_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/mb3_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 314--316
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/mb4_TrackerMuons.pdf, id=2457, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/mb4_TrackerMuons.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/mb4_TrackerMuons.pdf>
+<fig/acceptance7_plot/mb4_GlobalMuons.pdf, id=2458, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/mb4_GlobalMuons.pdf Graphic file (type pdf)
+
+<use fig/acceptance7_plot/mb4_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 328--330
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/mb4_StandAloneUpdatedDefault.pdf, id=2459, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance7_plot/mb4_StandAloneUpdatedDefault.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance7_plot/mb4_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/mb4_StandAloneDefault.pdf, id=2460, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance7_plot/mb4_StandAloneDefault.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/mb4_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 331--333
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/mb4_StandAloneUpdatedSET.pdf, id=2461, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance7_plot/mb4_StandAloneUpdatedSET.pdf Graphic file (type pdf)
+
+ <use fig/acceptance7_plot/mb4_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/mb4_StandAloneSET.pdf, id=2462, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/mb4_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/mb4_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 334--336
+[][] [] 
+ []
+
+[12 <./fig/acceptance7_plot/mb1_TrackerMuons.pdf> <./fig/acceptance7_plot/mb1_G
+lobalMuons.pdf> <./fig/acceptance7_plot/mb1_StandAloneUpdatedDefault.pdf> <./fi
+g/acceptance7_plot/mb1_StandAloneDefault.pdf> <./fig/acceptance7_plot/mb1_Stand
+AloneUpdatedSET.pdf> <./fig/acceptance7_plot/mb1_StandAloneSET.pdf>] [13 <./fig
+/acceptance7_plot/mb2_TrackerMuons.pdf> <./fig/acceptance7_plot/mb2_GlobalMuons
+.pdf> <./fig/acceptance7_plot/mb2_StandAloneUpdatedDefault.pdf> <./fig/acceptan
+ce7_plot/mb2_StandAloneDefault.pdf> <./fig/acceptance7_plot/mb2_StandAloneUpdat
+edSET.pdf> <./fig/acceptance7_plot/mb2_StandAloneSET.pdf>] [14 <./fig/acceptanc
+e7_plot/mb3_TrackerMuons.pdf> <./fig/acceptance7_plot/mb3_GlobalMuons.pdf> <./f
+ig/acceptance7_plot/mb3_StandAloneUpdatedDefault.pdf> <./fig/acceptance7_plot/m
+b3_StandAloneDefault.pdf> <./fig/acceptance7_plot/mb3_StandAloneUpdatedSET.pdf>
+ <./fig/acceptance7_plot/mb3_StandAloneSET.pdf>] [15 <./fig/acceptance7_plot/mb
+4_TrackerMuons.pdf> <./fig/acceptance7_plot/mb4_GlobalMuons.pdf> <./fig/accepta
+nce7_plot/mb4_StandAloneUpdatedDefault.pdf> <./fig/acceptance7_plot/mb4_StandAl
+oneDefault.pdf> <./fig/acceptance7_plot/mb4_StandAloneUpdatedSET.pdf> <./fig/ac
+ceptance7_plot/mb4_StandAloneSET.pdf>]
+<fig/acceptance7_plot/me11_TrackerMuons.pdf, id=3492, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/me11_TrackerMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me11_TrackerMuons.pdf>
+<fig/acceptance7_plot/me11_GlobalMuons.pdf, id=3493, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/me11_GlobalMuons.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/me11_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 350--352
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me11_StandAloneUpdatedDefault.pdf, id=3494, 316.18124pt x
+ 569.12625pt>
+File: fig/acceptance7_plot/me11_StandAloneUpdatedDefault.pdf Graphic file (type
+ pdf)
+ <use fig/acceptance7_plot/me11_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/me11_StandAloneDefault.pdf, id=3495, 316.18124pt x 569.12
+625pt>
+File: fig/acceptance7_plot/me11_StandAloneDefault.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me11_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 353--355
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me11_StandAloneUpdatedSET.pdf, id=3496, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance7_plot/me11_StandAloneUpdatedSET.pdf Graphic file (type pdf
+)
+ <use fig/acceptance7_plot/me11_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/me11_StandAloneSET.pdf, id=3497, 316.18124pt x 569.12625p
+t>
+File: fig/acceptance7_plot/me11_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me11_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 356--358
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me12_TrackerMuons.pdf, id=3498, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/me12_TrackerMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me12_TrackerMuons.pdf>
+<fig/acceptance7_plot/me12_GlobalMuons.pdf, id=3499, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/me12_GlobalMuons.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/me12_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 371--373
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me12_StandAloneUpdatedDefault.pdf, id=3500, 316.18124pt x
+ 569.12625pt>
+File: fig/acceptance7_plot/me12_StandAloneUpdatedDefault.pdf Graphic file (type
+ pdf)
+ <use fig/acceptance7_plot/me12_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/me12_StandAloneDefault.pdf, id=3501, 316.18124pt x 569.12
+625pt>
+File: fig/acceptance7_plot/me12_StandAloneDefault.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me12_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 374--376
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me12_StandAloneUpdatedSET.pdf, id=3502, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance7_plot/me12_StandAloneUpdatedSET.pdf Graphic file (type pdf
+)
+ <use fig/acceptance7_plot/me12_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/me12_StandAloneSET.pdf, id=3503, 316.18124pt x 569.12625p
+t>
+File: fig/acceptance7_plot/me12_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me12_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 377--379
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me13_TrackerMuons.pdf, id=3504, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/me13_TrackerMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me13_TrackerMuons.pdf>
+<fig/acceptance7_plot/me13_GlobalMuons.pdf, id=3505, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/me13_GlobalMuons.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/me13_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 391--393
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me13_StandAloneUpdatedDefault.pdf, id=3506, 316.18124pt x
+ 569.12625pt>
+File: fig/acceptance7_plot/me13_StandAloneUpdatedDefault.pdf Graphic file (type
+ pdf)
+ <use fig/acceptance7_plot/me13_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/me13_StandAloneDefault.pdf, id=3507, 316.18124pt x 569.12
+625pt>
+File: fig/acceptance7_plot/me13_StandAloneDefault.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me13_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 394--396
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me13_StandAloneUpdatedSET.pdf, id=3508, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance7_plot/me13_StandAloneUpdatedSET.pdf Graphic file (type pdf
+)
+ <use fig/acceptance7_plot/me13_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/me13_StandAloneSET.pdf, id=3509, 316.18124pt x 569.12625p
+t>
+File: fig/acceptance7_plot/me13_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me13_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 397--399
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me2_TrackerMuons.pdf, id=3510, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/me2_TrackerMuons.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/me2_TrackerMuons.pdf>
+<fig/acceptance7_plot/me2_GlobalMuons.pdf, id=3511, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/me2_GlobalMuons.pdf Graphic file (type pdf)
+
+<use fig/acceptance7_plot/me2_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 411--413
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me2_StandAloneUpdatedDefault.pdf, id=3512, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance7_plot/me2_StandAloneUpdatedDefault.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance7_plot/me2_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/me2_StandAloneDefault.pdf, id=3513, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance7_plot/me2_StandAloneDefault.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me2_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 414--416
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me2_StandAloneUpdatedSET.pdf, id=3514, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance7_plot/me2_StandAloneUpdatedSET.pdf Graphic file (type pdf)
+
+ <use fig/acceptance7_plot/me2_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/me2_StandAloneSET.pdf, id=3515, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/me2_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me2_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 417--419
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me3_TrackerMuons.pdf, id=3516, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/me3_TrackerMuons.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/me3_TrackerMuons.pdf>
+<fig/acceptance7_plot/me3_GlobalMuons.pdf, id=3517, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/me3_GlobalMuons.pdf Graphic file (type pdf)
+
+<use fig/acceptance7_plot/me3_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 431--433
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me3_StandAloneUpdatedDefault.pdf, id=3518, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance7_plot/me3_StandAloneUpdatedDefault.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance7_plot/me3_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/me3_StandAloneDefault.pdf, id=3519, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance7_plot/me3_StandAloneDefault.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me3_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 434--436
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me3_StandAloneUpdatedSET.pdf, id=3520, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance7_plot/me3_StandAloneUpdatedSET.pdf Graphic file (type pdf)
+
+ <use fig/acceptance7_plot/me3_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/me3_StandAloneSET.pdf, id=3521, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/me3_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me3_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 437--439
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me4_TrackerMuons.pdf, id=3522, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/me4_TrackerMuons.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/me4_TrackerMuons.pdf>
+<fig/acceptance7_plot/me4_GlobalMuons.pdf, id=3523, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/me4_GlobalMuons.pdf Graphic file (type pdf)
+
+<use fig/acceptance7_plot/me4_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 451--453
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me4_StandAloneUpdatedDefault.pdf, id=3524, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance7_plot/me4_StandAloneUpdatedDefault.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance7_plot/me4_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/me4_StandAloneDefault.pdf, id=3525, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance7_plot/me4_StandAloneDefault.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me4_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 454--456
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/me4_StandAloneUpdatedSET.pdf, id=3526, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance7_plot/me4_StandAloneUpdatedSET.pdf Graphic file (type pdf)
+
+ <use fig/acceptance7_plot/me4_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/me4_StandAloneSET.pdf, id=3527, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/me4_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/me4_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 457--459
+[][] [] 
+ []
+
+
+<fig/acceptance_plot/mb1_TrackerMuons_denominator.pdf, id=3528, 315.1775pt x 56
+9.12625pt>
+File: fig/acceptance_plot/mb1_TrackerMuons_denominator.pdf Graphic file (type p
+df)
+ <use fig/acceptance_plot/mb1_TrackerMuons_denominator.pdf>
+<fig/acceptance_plot/mb2_TrackerMuons_denominator.pdf, id=3529, 315.1775pt x 56
+9.12625pt>
+File: fig/acceptance_plot/mb2_TrackerMuons_denominator.pdf Graphic file (type p
+df)
+ <use fig/acceptance_plot/mb2_TrackerMuons_denominator.pdf>
+<fig/acceptance_plot/mb3_TrackerMuons_denominator.pdf, id=3530, 315.1775pt x 56
+9.12625pt>
+File: fig/acceptance_plot/mb3_TrackerMuons_denominator.pdf Graphic file (type p
+df)
+ <use fig/acceptance_plot/mb3_TrackerMuons_denominator.pdf>
+<fig/acceptance_plot/mb4_TrackerMuons_denominator.pdf, id=3531, 315.1775pt x 56
+9.12625pt>
+File: fig/acceptance_plot/mb4_TrackerMuons_denominator.pdf Graphic file (type p
+df)
+ <use fig/acceptance_plot/mb4_TrackerMuons_denominator.pdf>
+<fig/acceptance_plot/me11_TrackerMuons_denominator.pdf, id=3532, 315.1775pt x 5
+69.12625pt>
+File: fig/acceptance_plot/me11_TrackerMuons_denominator.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance_plot/me11_TrackerMuons_denominator.pdf>
+<fig/acceptance_plot/me12_TrackerMuons_denominator.pdf, id=3533, 315.1775pt x 5
+69.12625pt>
+File: fig/acceptance_plot/me12_TrackerMuons_denominator.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance_plot/me12_TrackerMuons_denominator.pdf>
+<fig/acceptance_plot/me13_TrackerMuons_denominator.pdf, id=3534, 315.1775pt x 5
+69.12625pt>
+File: fig/acceptance_plot/me13_TrackerMuons_denominator.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance_plot/me13_TrackerMuons_denominator.pdf>
+<fig/acceptance_plot/me2_TrackerMuons_denominator.pdf, id=3535, 315.1775pt x 56
+9.12625pt>
+File: fig/acceptance_plot/me2_TrackerMuons_denominator.pdf Graphic file (type p
+df)
+ <use fig/acceptance_plot/me2_TrackerMuons_denominator.pdf>
+<fig/acceptance_plot/me3_TrackerMuons_denominator.pdf, id=3536, 315.1775pt x 56
+9.12625pt>
+File: fig/acceptance_plot/me3_TrackerMuons_denominator.pdf Graphic file (type p
+df)
+ <use fig/acceptance_plot/me3_TrackerMuons_denominator.pdf>
+<fig/acceptance_plot/me4_TrackerMuons_denominator.pdf, id=3537, 315.1775pt x 56
+9.12625pt>
+File: fig/acceptance_plot/me4_TrackerMuons_denominator.pdf Graphic file (type p
+df)
+ <use fig/acceptance_plot/me4_TrackerMuons_denominator.pdf> [16 <./fig/acceptan
+ce7_plot/me11_TrackerMuons.pdf> <./fig/acceptance7_plot/me11_GlobalMuons.pdf> <
+./fig/acceptance7_plot/me11_StandAloneUpdatedDefault.pdf> <./fig/acceptance7_pl
+ot/me11_StandAloneDefault.pdf> <./fig/acceptance7_plot/me11_StandAloneUpdatedSE
+T.pdf> <./fig/acceptance7_plot/me11_StandAloneSET.pdf>] [17 <./fig/acceptance7_
+plot/me12_TrackerMuons.pdf> <./fig/acceptance7_plot/me12_GlobalMuons.pdf> <./fi
+g/acceptance7_plot/me12_StandAloneUpdatedDefault.pdf> <./fig/acceptance7_plot/m
+e12_StandAloneDefault.pdf> <./fig/acceptance7_plot/me12_StandAloneUpdatedSET.pd
+f> <./fig/acceptance7_plot/me12_StandAloneSET.pdf>] [18 <./fig/acceptance7_plot
+/me13_TrackerMuons.pdf> <./fig/acceptance7_plot/me13_GlobalMuons.pdf> <./fig/ac
+ceptance7_plot/me13_StandAloneUpdatedDefault.pdf> <./fig/acceptance7_plot/me13_
+StandAloneDefault.pdf> <./fig/acceptance7_plot/me13_StandAloneUpdatedSET.pdf> <
+./fig/acceptance7_plot/me13_StandAloneSET.pdf>] [19 <./fig/acceptance7_plot/me2
+_TrackerMuons.pdf> <./fig/acceptance7_plot/me2_GlobalMuons.pdf> <./fig/acceptan
+ce7_plot/me2_StandAloneUpdatedDefault.pdf> <./fig/acceptance7_plot/me2_StandAlo
+neDefault.pdf> <./fig/acceptance7_plot/me2_StandAloneUpdatedSET.pdf> <./fig/acc
+eptance7_plot/me2_StandAloneSET.pdf>] [20 <./fig/acceptance7_plot/me3_TrackerMu
+ons.pdf> <./fig/acceptance7_plot/me3_GlobalMuons.pdf> <./fig/acceptance7_plot/m
+e3_StandAloneUpdatedDefault.pdf> <./fig/acceptance7_plot/me3_StandAloneDefault.
+pdf> <./fig/acceptance7_plot/me3_StandAloneUpdatedSET.pdf> <./fig/acceptance7_p
+lot/me3_StandAloneSET.pdf>] [21 <./fig/acceptance7_plot/me4_TrackerMuons.pdf> <
+./fig/acceptance7_plot/me4_GlobalMuons.pdf> <./fig/acceptance7_plot/me4_StandAl
+oneUpdatedDefault.pdf> <./fig/acceptance7_plot/me4_StandAloneDefault.pdf> <./fi
+g/acceptance7_plot/me4_StandAloneUpdatedSET.pdf> <./fig/acceptance7_plot/me4_St
+andAloneSET.pdf>] [22 <./fig/acceptance_plot/mb1_TrackerMuons_denominator.pdf> 
+<./fig/acceptance_plot/mb2_TrackerMuons_denominator.pdf> <./fig/acceptance_plot
+/mb3_TrackerMuons_denominator.pdf> <./fig/acceptance_plot/mb4_TrackerMuons_deno
+minator.pdf> <./fig/acceptance_plot/me11_TrackerMuons_denominator.pdf> <./fig/a
+cceptance_plot/me12_TrackerMuons_denominator.pdf> <./fig/acceptance_plot/me13_T
+rackerMuons_denominator.pdf> <./fig/acceptance_plot/me2_TrackerMuons_denominato
+r.pdf> <./fig/acceptance_plot/me3_TrackerMuons_denominator.pdf> <./fig/acceptan
+ce_plot/me4_TrackerMuons_denominator.pdf>]
+<fig/acceptance7_plot/vsmb3dphi_TrackerMuons.pdf, id=5506, 316.18124pt x 569.12
+625pt>
+File: fig/acceptance7_plot/vsmb3dphi_TrackerMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsmb3dphi_TrackerMuons.pdf>
+<fig/acceptance7_plot/vsmb3dz_TrackerMuons.pdf, id=5507, 316.18124pt x 569.1262
+5pt>
+File: fig/acceptance7_plot/vsmb3dz_TrackerMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsmb3dz_TrackerMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 495--497
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsme2dphi_TrackerMuons.pdf, id=5508, 316.18124pt x 569.12
+625pt>
+File: fig/acceptance7_plot/vsme2dphi_TrackerMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsme2dphi_TrackerMuons.pdf>
+<fig/acceptance7_plot/vsme2dr_TrackerMuons.pdf, id=5509, 316.18124pt x 569.1262
+5pt>
+File: fig/acceptance7_plot/vsme2dr_TrackerMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsme2dr_TrackerMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 498--500
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsmb3dphi_StandAloneDefault.pdf, id=5514, 316.18124pt x 5
+69.12625pt>
+File: fig/acceptance7_plot/vsmb3dphi_StandAloneDefault.pdf Graphic file (type p
+df)
+ <use fig/acceptance7_plot/vsmb3dphi_StandAloneDefault.pdf>
+<fig/acceptance7_plot/vsmb3dz_StandAloneDefault.pdf, id=5515, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance7_plot/vsmb3dz_StandAloneDefault.pdf Graphic file (type pdf
+)
+ <use fig/acceptance7_plot/vsmb3dz_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 507--509
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsme2dphi_StandAloneDefault.pdf, id=5516, 316.18124pt x 5
+69.12625pt>
+File: fig/acceptance7_plot/vsme2dphi_StandAloneDefault.pdf Graphic file (type p
+df)
+ <use fig/acceptance7_plot/vsme2dphi_StandAloneDefault.pdf>
+<fig/acceptance7_plot/vsme2dr_StandAloneDefault.pdf, id=5517, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance7_plot/vsme2dr_StandAloneDefault.pdf Graphic file (type pdf
+)
+ <use fig/acceptance7_plot/vsme2dr_StandAloneDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 510--512
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsmb3dphi_StandAloneUpdatedDefault.pdf, id=5522, 316.1812
+4pt x 569.12625pt>
+File: fig/acceptance7_plot/vsmb3dphi_StandAloneUpdatedDefault.pdf Graphic file 
+(type pdf)
+
+<use fig/acceptance7_plot/vsmb3dphi_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/vsmb3dz_StandAloneUpdatedDefault.pdf, id=5523, 316.18124p
+t x 569.12625pt>
+File: fig/acceptance7_plot/vsmb3dz_StandAloneUpdatedDefault.pdf Graphic file (t
+ype pdf)
+
+<use fig/acceptance7_plot/vsmb3dz_StandAloneUpdatedDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 520--522
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsme2dphi_StandAloneUpdatedDefault.pdf, id=5524, 316.1812
+4pt x 569.12625pt>
+File: fig/acceptance7_plot/vsme2dphi_StandAloneUpdatedDefault.pdf Graphic file 
+(type pdf)
+
+<use fig/acceptance7_plot/vsme2dphi_StandAloneUpdatedDefault.pdf>
+<fig/acceptance7_plot/vsme2dr_StandAloneUpdatedDefault.pdf, id=5525, 316.18124p
+t x 569.12625pt>
+File: fig/acceptance7_plot/vsme2dr_StandAloneUpdatedDefault.pdf Graphic file (t
+ype pdf)
+
+<use fig/acceptance7_plot/vsme2dr_StandAloneUpdatedDefault.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 523--525
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsmb3dphi_StandAloneSET.pdf, id=5530, 316.18124pt x 569.1
+2625pt>
+File: fig/acceptance7_plot/vsmb3dphi_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsmb3dphi_StandAloneSET.pdf>
+<fig/acceptance7_plot/vsmb3dz_StandAloneSET.pdf, id=5531, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance7_plot/vsmb3dz_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsmb3dz_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 533--535
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsme2dphi_StandAloneSET.pdf, id=5532, 316.18124pt x 569.1
+2625pt>
+File: fig/acceptance7_plot/vsme2dphi_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsme2dphi_StandAloneSET.pdf>
+<fig/acceptance7_plot/vsme2dr_StandAloneSET.pdf, id=5533, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance7_plot/vsme2dr_StandAloneSET.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsme2dr_StandAloneSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 536--538
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsmb3dphi_StandAloneUpdatedSET.pdf, id=5538, 316.18124pt 
+x 569.12625pt>
+File: fig/acceptance7_plot/vsmb3dphi_StandAloneUpdatedSET.pdf Graphic file (typ
+e pdf)
+ <use fig/acceptance7_plot/vsmb3dphi_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/vsmb3dz_StandAloneUpdatedSET.pdf, id=5539, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance7_plot/vsmb3dz_StandAloneUpdatedSET.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance7_plot/vsmb3dz_StandAloneUpdatedSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 546--548
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsme2dphi_StandAloneUpdatedSET.pdf, id=5540, 316.18124pt 
+x 569.12625pt>
+File: fig/acceptance7_plot/vsme2dphi_StandAloneUpdatedSET.pdf Graphic file (typ
+e pdf)
+ <use fig/acceptance7_plot/vsme2dphi_StandAloneUpdatedSET.pdf>
+<fig/acceptance7_plot/vsme2dr_StandAloneUpdatedSET.pdf, id=5541, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance7_plot/vsme2dr_StandAloneUpdatedSET.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance7_plot/vsme2dr_StandAloneUpdatedSET.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 549--551
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsmb3dphi_GlobalMuons.pdf, id=5546, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance7_plot/vsmb3dphi_GlobalMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsmb3dphi_GlobalMuons.pdf>
+<fig/acceptance7_plot/vsmb3dz_GlobalMuons.pdf, id=5547, 316.18124pt x 569.12625
+pt>
+File: fig/acceptance7_plot/vsmb3dz_GlobalMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsmb3dz_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 559--561
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsme2dphi_GlobalMuons.pdf, id=5548, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance7_plot/vsme2dphi_GlobalMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsme2dphi_GlobalMuons.pdf>
+<fig/acceptance7_plot/vsme2dr_GlobalMuons.pdf, id=5549, 316.18124pt x 569.12625
+pt>
+File: fig/acceptance7_plot/vsme2dr_GlobalMuons.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsme2dr_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 562--564
+[][] [] 
+ []
+
+
+<fig/acceptance2_plot/triggereta24_p1.pdf, id=5554, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/triggereta24_p1.pdf Graphic file (type pdf)
+
+<use fig/acceptance2_plot/triggereta24_p1.pdf>
+<fig/acceptance2_plot/triggereta24_p2.pdf, id=5555, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/triggereta24_p2.pdf Graphic file (type pdf)
+
+<use fig/acceptance2_plot/triggereta24_p2.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 575--577
+[][] [] 
+ []
+
+
+<fig/acceptance2_plot/triggereta10_p1.pdf, id=5556, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/triggereta10_p1.pdf Graphic file (type pdf)
+
+<use fig/acceptance2_plot/triggereta10_p1.pdf>
+<fig/acceptance2_plot/triggereta10_p2.pdf, id=5557, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/triggereta10_p2.pdf Graphic file (type pdf)
+
+<use fig/acceptance2_plot/triggereta10_p2.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 578--580
+[][] [] 
+ []
+
+
+<fig/acceptance2_plot/triggeretaendcap_p1.pdf, id=5558, 316.18124pt x 569.12625
+pt>
+File: fig/acceptance2_plot/triggeretaendcap_p1.pdf Graphic file (type pdf)
+ <use fig/acceptance2_plot/triggeretaendcap_p1.pdf>
+<fig/acceptance2_plot/triggeretaendcap_p2.pdf, id=5559, 316.18124pt x 569.12625
+pt>
+File: fig/acceptance2_plot/triggeretaendcap_p2.pdf Graphic file (type pdf)
+ <use fig/acceptance2_plot/triggeretaendcap_p2.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 581--583
+[][] [] 
+ []
+
+<fig/acceptance6_plot/vsdR_HLT_Mu5.pdf, id=5560, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsdR_HLT_Mu5.pdf Graphic file (type pdf)
+
+<use fig/acceptance6_plot/vsdR_HLT_Mu5.pdf>
+<fig/acceptance6_plot/vsmass_HLT_Mu5.pdf, id=5561, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsmass_HLT_Mu5.pdf Graphic file (type pdf)
+
+<use fig/acceptance6_plot/vsmass_HLT_Mu5.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 600--602
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsmb3dphi_HLT_Mu5.pdf, id=5562, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/vsmb3dphi_HLT_Mu5.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsmb3dphi_HLT_Mu5.pdf>
+<fig/acceptance7_plot/vsmb3dz_HLT_Mu5.pdf, id=5563, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/vsmb3dz_HLT_Mu5.pdf Graphic file (type pdf)
+
+<use fig/acceptance7_plot/vsmb3dz_HLT_Mu5.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 609--611
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsme2dphi_HLT_Mu5.pdf, id=5564, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/vsme2dphi_HLT_Mu5.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsme2dphi_HLT_Mu5.pdf>
+<fig/acceptance7_plot/vsme2dr_HLT_Mu5.pdf, id=5565, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/vsme2dr_HLT_Mu5.pdf Graphic file (type pdf)
+
+<use fig/acceptance7_plot/vsme2dr_HLT_Mu5.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 612--614
+[][] [] 
+ []
+
+<fig/acceptance6_plot/vsdR_HLT_Mu9.pdf, id=5568, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsdR_HLT_Mu9.pdf Graphic file (type pdf)
+
+<use fig/acceptance6_plot/vsdR_HLT_Mu9.pdf>
+<fig/acceptance6_plot/vsmass_HLT_Mu9.pdf, id=5569, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsmass_HLT_Mu9.pdf Graphic file (type pdf)
+
+<use fig/acceptance6_plot/vsmass_HLT_Mu9.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 622--624
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsmb3dphi_HLT_Mu9.pdf, id=5570, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/vsmb3dphi_HLT_Mu9.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsmb3dphi_HLT_Mu9.pdf>
+<fig/acceptance7_plot/vsmb3dz_HLT_Mu9.pdf, id=5571, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/vsmb3dz_HLT_Mu9.pdf Graphic file (type pdf)
+
+<use fig/acceptance7_plot/vsmb3dz_HLT_Mu9.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 631--633
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsme2dphi_HLT_Mu9.pdf, id=5572, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance7_plot/vsme2dphi_HLT_Mu9.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsme2dphi_HLT_Mu9.pdf>
+<fig/acceptance7_plot/vsme2dr_HLT_Mu9.pdf, id=5573, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/vsme2dr_HLT_Mu9.pdf Graphic file (type pdf)
+
+<use fig/acceptance7_plot/vsme2dr_HLT_Mu9.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 634--636
+[][] [] 
+ []
+
+<fig/acceptance6_plot/vsdR_HLT_Mu11.pdf, id=5576, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsdR_HLT_Mu11.pdf Graphic file (type pdf)
+
+<use fig/acceptance6_plot/vsdR_HLT_Mu11.pdf>
+<fig/acceptance6_plot/vsmass_HLT_Mu11.pdf, id=5577, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsmass_HLT_Mu11.pdf Graphic file (type pdf)
+
+<use fig/acceptance6_plot/vsmass_HLT_Mu11.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 646--648
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsmb3dphi_HLT_Mu11.pdf, id=5578, 316.18124pt x 569.12625p
+t>
+File: fig/acceptance7_plot/vsmb3dphi_HLT_Mu11.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsmb3dphi_HLT_Mu11.pdf>
+<fig/acceptance7_plot/vsmb3dz_HLT_Mu11.pdf, id=5579, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/vsmb3dz_HLT_Mu11.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/vsmb3dz_HLT_Mu11.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 655--657
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsme2dphi_HLT_Mu11.pdf, id=5580, 316.18124pt x 569.12625p
+t>
+File: fig/acceptance7_plot/vsme2dphi_HLT_Mu11.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsme2dphi_HLT_Mu11.pdf>
+<fig/acceptance7_plot/vsme2dr_HLT_Mu11.pdf, id=5581, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/vsme2dr_HLT_Mu11.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/vsme2dr_HLT_Mu11.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 658--660
+[][] [] 
+ []
+
+<fig/acceptance6_plot/vsdR_HLT_Mu15.pdf, id=5584, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsdR_HLT_Mu15.pdf Graphic file (type pdf)
+
+<use fig/acceptance6_plot/vsdR_HLT_Mu15.pdf>
+<fig/acceptance6_plot/vsmass_HLT_Mu15.pdf, id=5585, 315.1775pt x 569.12625pt>
+File: fig/acceptance6_plot/vsmass_HLT_Mu15.pdf Graphic file (type pdf)
+
+<use fig/acceptance6_plot/vsmass_HLT_Mu15.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 670--672
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsmb3dphi_HLT_Mu15.pdf, id=5586, 316.18124pt x 569.12625p
+t>
+File: fig/acceptance7_plot/vsmb3dphi_HLT_Mu15.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsmb3dphi_HLT_Mu15.pdf>
+<fig/acceptance7_plot/vsmb3dz_HLT_Mu15.pdf, id=5587, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/vsmb3dz_HLT_Mu15.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/vsmb3dz_HLT_Mu15.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 679--681
+[][] [] 
+ []
+
+
+<fig/acceptance7_plot/vsme2dphi_HLT_Mu15.pdf, id=5588, 316.18124pt x 569.12625p
+t>
+File: fig/acceptance7_plot/vsme2dphi_HLT_Mu15.pdf Graphic file (type pdf)
+ <use fig/acceptance7_plot/vsme2dphi_HLT_Mu15.pdf>
+<fig/acceptance7_plot/vsme2dr_HLT_Mu15.pdf, id=5589, 316.18124pt x 569.12625pt>
+File: fig/acceptance7_plot/vsme2dr_HLT_Mu15.pdf Graphic file (type pdf)
+<use fig/acceptance7_plot/vsme2dr_HLT_Mu15.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 682--684
+[][] [] 
+ []
+
+[23
+
+
+
+] [24 <./fig/acceptance7_plot/vsmb3dphi_TrackerMuons.pdf> <./fig/acceptance7_pl
+ot/vsmb3dz_TrackerMuons.pdf> <./fig/acceptance7_plot/vsme2dphi_TrackerMuons.pdf
+> <./fig/acceptance7_plot/vsme2dr_TrackerMuons.pdf> <./fig/acceptance7_plot/vsm
+b3dphi_StandAloneDefault.pdf> <./fig/acceptance7_plot/vsmb3dz_StandAloneDefault
+.pdf> <./fig/acceptance7_plot/vsme2dphi_StandAloneDefault.pdf> <./fig/acceptanc
+e7_plot/vsme2dr_StandAloneDefault.pdf>] [25 <./fig/acceptance7_plot/vsmb3dphi_S
+tandAloneUpdatedDefault.pdf> <./fig/acceptance7_plot/vsmb3dz_StandAloneUpdatedD
+efault.pdf> <./fig/acceptance7_plot/vsme2dphi_StandAloneUpdatedDefault.pdf> <./
+fig/acceptance7_plot/vsme2dr_StandAloneUpdatedDefault.pdf> <./fig/acceptance7_p
+lot/vsmb3dphi_StandAloneSET.pdf> <./fig/acceptance7_plot/vsmb3dz_StandAloneSET.
+pdf> <./fig/acceptance7_plot/vsme2dphi_StandAloneSET.pdf> <./fig/acceptance7_pl
+ot/vsme2dr_StandAloneSET.pdf>] [26 <./fig/acceptance7_plot/vsmb3dphi_StandAlone
+UpdatedSET.pdf> <./fig/acceptance7_plot/vsmb3dz_StandAloneUpdatedSET.pdf> <./fi
+g/acceptance7_plot/vsme2dphi_StandAloneUpdatedSET.pdf> <./fig/acceptance7_plot/
+vsme2dr_StandAloneUpdatedSET.pdf> <./fig/acceptance7_plot/vsmb3dphi_GlobalMuons
+.pdf> <./fig/acceptance7_plot/vsmb3dz_GlobalMuons.pdf> <./fig/acceptance7_plot/
+vsme2dphi_GlobalMuons.pdf> <./fig/acceptance7_plot/vsme2dr_GlobalMuons.pdf>] [2
+7 <./fig/acceptance2_plot/triggereta24_p1.pdf> <./fig/acceptance2_plot/triggere
+ta24_p2.pdf> <./fig/acceptance2_plot/triggereta10_p1.pdf> <./fig/acceptance2_pl
+ot/triggereta10_p2.pdf> <./fig/acceptance2_plot/triggeretaendcap_p1.pdf> <./fig
+/acceptance2_plot/triggeretaendcap_p2.pdf>] [28 <./fig/acceptance6_plot/vsdR_HL
+T_Mu5.pdf> <./fig/acceptance6_plot/vsmass_HLT_Mu5.pdf> <./fig/acceptance7_plot/
+vsmb3dphi_HLT_Mu5.pdf> <./fig/acceptance7_plot/vsmb3dz_HLT_Mu5.pdf> <./fig/acce
+ptance7_plot/vsme2dphi_HLT_Mu5.pdf> <./fig/acceptance7_plot/vsme2dr_HLT_Mu5.pdf
+>] [29 <./fig/acceptance6_plot/vsdR_HLT_Mu9.pdf> <./fig/acceptance6_plot/vsmass
+_HLT_Mu9.pdf> <./fig/acceptance7_plot/vsmb3dphi_HLT_Mu9.pdf> <./fig/acceptance7
+_plot/vsmb3dz_HLT_Mu9.pdf> <./fig/acceptance7_plot/vsme2dphi_HLT_Mu9.pdf> <./fi
+g/acceptance7_plot/vsme2dr_HLT_Mu9.pdf>] [30 <./fig/acceptance6_plot/vsdR_HLT_M
+u11.pdf> <./fig/acceptance6_plot/vsmass_HLT_Mu11.pdf> <./fig/acceptance7_plot/v
+smb3dphi_HLT_Mu11.pdf> <./fig/acceptance7_plot/vsmb3dz_HLT_Mu11.pdf> <./fig/acc
+eptance7_plot/vsme2dphi_HLT_Mu11.pdf> <./fig/acceptance7_plot/vsme2dr_HLT_Mu11.
+pdf>] [31 <./fig/acceptance6_plot/vsdR_HLT_Mu15.pdf> <./fig/acceptance6_plot/vs
+mass_HLT_Mu15.pdf> <./fig/acceptance7_plot/vsmb3dphi_HLT_Mu15.pdf> <./fig/accep
+tance7_plot/vsmb3dz_HLT_Mu15.pdf> <./fig/acceptance7_plot/vsme2dphi_HLT_Mu15.pd
+f> <./fig/acceptance7_plot/vsme2dr_HLT_Mu15.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 699.
+
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 699.
+
+<fig/acceptance8_plot/mb3_PlainTrackerMuon.pdf, id=7915, 316.18124pt x 569.1262
+5pt>
+File: fig/acceptance8_plot/mb3_PlainTrackerMuon.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/mb3_PlainTrackerMuon.pdf>
+<fig/acceptance8_plot/me2_PlainTrackerMuon.pdf, id=7916, 316.18124pt x 569.1262
+5pt>
+File: fig/acceptance8_plot/me2_PlainTrackerMuon.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/me2_PlainTrackerMuon.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 727--729
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dphi_PlainTrackerMuon.pdf, id=7917, 316.18124pt x 56
+9.12625pt>
+File: fig/acceptance8_plot/vsmb3dphi_PlainTrackerMuon.pdf Graphic file (type pd
+f)
+ <use fig/acceptance8_plot/vsmb3dphi_PlainTrackerMuon.pdf>
+<fig/acceptance8_plot/vsme2dphi_PlainTrackerMuon.pdf, id=7918, 316.18124pt x 56
+9.12625pt>
+File: fig/acceptance8_plot/vsme2dphi_PlainTrackerMuon.pdf Graphic file (type pd
+f)
+ <use fig/acceptance8_plot/vsme2dphi_PlainTrackerMuon.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 730--732
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dz_PlainTrackerMuon.pdf, id=7919, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance8_plot/vsmb3dz_PlainTrackerMuon.pdf Graphic file (type pdf)
+
+ <use fig/acceptance8_plot/vsmb3dz_PlainTrackerMuon.pdf>
+<fig/acceptance8_plot/vsme2dr_PlainTrackerMuon.pdf, id=7920, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance8_plot/vsme2dr_PlainTrackerMuon.pdf Graphic file (type pdf)
+
+ <use fig/acceptance8_plot/vsme2dr_PlainTrackerMuon.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 733--735
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/mb3_PlainGlobalMuon.pdf, id=7921, 316.18124pt x 569.12625
+pt>
+File: fig/acceptance8_plot/mb3_PlainGlobalMuon.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/mb3_PlainGlobalMuon.pdf>
+<fig/acceptance8_plot/me2_PlainGlobalMuon.pdf, id=7922, 316.18124pt x 569.12625
+pt>
+File: fig/acceptance8_plot/me2_PlainGlobalMuon.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/me2_PlainGlobalMuon.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 740--742
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dphi_PlainGlobalMuon.pdf, id=7923, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/vsmb3dphi_PlainGlobalMuon.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/vsmb3dphi_PlainGlobalMuon.pdf>
+<fig/acceptance8_plot/vsme2dphi_PlainGlobalMuon.pdf, id=7924, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/vsme2dphi_PlainGlobalMuon.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/vsme2dphi_PlainGlobalMuon.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 743--745
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dz_PlainGlobalMuon.pdf, id=7925, 316.18124pt x 569.1
+2625pt>
+File: fig/acceptance8_plot/vsmb3dz_PlainGlobalMuon.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/vsmb3dz_PlainGlobalMuon.pdf>
+<fig/acceptance8_plot/vsme2dr_PlainGlobalMuon.pdf, id=7926, 316.18124pt x 569.1
+2625pt>
+File: fig/acceptance8_plot/vsme2dr_PlainGlobalMuon.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/vsme2dr_PlainGlobalMuon.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 746--748
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/mb3_GlobalMuonMaxChi5.pdf, id=7927, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance8_plot/mb3_GlobalMuonMaxChi5.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/mb3_GlobalMuonMaxChi5.pdf>
+<fig/acceptance8_plot/me2_GlobalMuonMaxChi5.pdf, id=7928, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance8_plot/me2_GlobalMuonMaxChi5.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/me2_GlobalMuonMaxChi5.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 753--755
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dphi_GlobalMuonMaxChi5.pdf, id=7929, 316.18124pt x 5
+69.12625pt>
+File: fig/acceptance8_plot/vsmb3dphi_GlobalMuonMaxChi5.pdf Graphic file (type p
+df)
+ <use fig/acceptance8_plot/vsmb3dphi_GlobalMuonMaxChi5.pdf>
+<fig/acceptance8_plot/vsme2dphi_GlobalMuonMaxChi5.pdf, id=7930, 316.18124pt x 5
+69.12625pt>
+File: fig/acceptance8_plot/vsme2dphi_GlobalMuonMaxChi5.pdf Graphic file (type p
+df)
+ <use fig/acceptance8_plot/vsme2dphi_GlobalMuonMaxChi5.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 756--758
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dz_GlobalMuonMaxChi5.pdf, id=7931, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/vsmb3dz_GlobalMuonMaxChi5.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/vsmb3dz_GlobalMuonMaxChi5.pdf>
+<fig/acceptance8_plot/vsme2dr_GlobalMuonMaxChi5.pdf, id=7932, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/vsme2dr_GlobalMuonMaxChi5.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/vsme2dr_GlobalMuonMaxChi5.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 759--761
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/mb3_TMOneStationLoose.pdf, id=7933, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance8_plot/mb3_TMOneStationLoose.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/mb3_TMOneStationLoose.pdf>
+<fig/acceptance8_plot/me2_TMOneStationLoose.pdf, id=7934, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance8_plot/me2_TMOneStationLoose.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/me2_TMOneStationLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 766--768
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dphi_TMOneStationLoose.pdf, id=7935, 316.18124pt x 5
+69.12625pt>
+File: fig/acceptance8_plot/vsmb3dphi_TMOneStationLoose.pdf Graphic file (type p
+df)
+ <use fig/acceptance8_plot/vsmb3dphi_TMOneStationLoose.pdf>
+<fig/acceptance8_plot/vsme2dphi_TMOneStationLoose.pdf, id=7936, 316.18124pt x 5
+69.12625pt>
+File: fig/acceptance8_plot/vsme2dphi_TMOneStationLoose.pdf Graphic file (type p
+df)
+ <use fig/acceptance8_plot/vsme2dphi_TMOneStationLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 769--771
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dz_TMOneStationLoose.pdf, id=7937, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/vsmb3dz_TMOneStationLoose.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/vsmb3dz_TMOneStationLoose.pdf>
+<fig/acceptance8_plot/vsme2dr_TMOneStationLoose.pdf, id=7938, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/vsme2dr_TMOneStationLoose.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/vsme2dr_TMOneStationLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 772--774
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/mb3_TMOneStationTight.pdf, id=7939, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance8_plot/mb3_TMOneStationTight.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/mb3_TMOneStationTight.pdf>
+<fig/acceptance8_plot/me2_TMOneStationTight.pdf, id=7940, 316.18124pt x 569.126
+25pt>
+File: fig/acceptance8_plot/me2_TMOneStationTight.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/me2_TMOneStationTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 779--781
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dphi_TMOneStationTight.pdf, id=7941, 316.18124pt x 5
+69.12625pt>
+File: fig/acceptance8_plot/vsmb3dphi_TMOneStationTight.pdf Graphic file (type p
+df)
+ <use fig/acceptance8_plot/vsmb3dphi_TMOneStationTight.pdf>
+<fig/acceptance8_plot/vsme2dphi_TMOneStationTight.pdf, id=7942, 316.18124pt x 5
+69.12625pt>
+File: fig/acceptance8_plot/vsme2dphi_TMOneStationTight.pdf Graphic file (type p
+df)
+ <use fig/acceptance8_plot/vsme2dphi_TMOneStationTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 782--784
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dz_TMOneStationTight.pdf, id=7943, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/vsmb3dz_TMOneStationTight.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/vsmb3dz_TMOneStationTight.pdf>
+<fig/acceptance8_plot/vsme2dr_TMOneStationTight.pdf, id=7944, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/vsme2dr_TMOneStationTight.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/vsme2dr_TMOneStationTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 785--787
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/mb3_TMLastStationLoose.pdf, id=7945, 316.18124pt x 569.12
+625pt>
+File: fig/acceptance8_plot/mb3_TMLastStationLoose.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/mb3_TMLastStationLoose.pdf>
+<fig/acceptance8_plot/me2_TMLastStationLoose.pdf, id=7946, 316.18124pt x 569.12
+625pt>
+File: fig/acceptance8_plot/me2_TMLastStationLoose.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/me2_TMLastStationLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 792--794
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dphi_TMLastStationLoose.pdf, id=7947, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance8_plot/vsmb3dphi_TMLastStationLoose.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance8_plot/vsmb3dphi_TMLastStationLoose.pdf>
+<fig/acceptance8_plot/vsme2dphi_TMLastStationLoose.pdf, id=7948, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance8_plot/vsme2dphi_TMLastStationLoose.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance8_plot/vsme2dphi_TMLastStationLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 795--797
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dz_TMLastStationLoose.pdf, id=7949, 316.18124pt x 56
+9.12625pt>
+File: fig/acceptance8_plot/vsmb3dz_TMLastStationLoose.pdf Graphic file (type pd
+f)
+ <use fig/acceptance8_plot/vsmb3dz_TMLastStationLoose.pdf>
+<fig/acceptance8_plot/vsme2dr_TMLastStationLoose.pdf, id=7950, 316.18124pt x 56
+9.12625pt>
+File: fig/acceptance8_plot/vsme2dr_TMLastStationLoose.pdf Graphic file (type pd
+f)
+ <use fig/acceptance8_plot/vsme2dr_TMLastStationLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 798--800
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/mb3_TMLastStationTight.pdf, id=7951, 316.18124pt x 569.12
+625pt>
+File: fig/acceptance8_plot/mb3_TMLastStationTight.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/mb3_TMLastStationTight.pdf>
+<fig/acceptance8_plot/me2_TMLastStationTight.pdf, id=7952, 316.18124pt x 569.12
+625pt>
+File: fig/acceptance8_plot/me2_TMLastStationTight.pdf Graphic file (type pdf)
+ <use fig/acceptance8_plot/me2_TMLastStationTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 805--807
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dphi_TMLastStationTight.pdf, id=7953, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance8_plot/vsmb3dphi_TMLastStationTight.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance8_plot/vsmb3dphi_TMLastStationTight.pdf>
+<fig/acceptance8_plot/vsme2dphi_TMLastStationTight.pdf, id=7954, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance8_plot/vsme2dphi_TMLastStationTight.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance8_plot/vsme2dphi_TMLastStationTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 808--810
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dz_TMLastStationTight.pdf, id=7955, 316.18124pt x 56
+9.12625pt>
+File: fig/acceptance8_plot/vsmb3dz_TMLastStationTight.pdf Graphic file (type pd
+f)
+ <use fig/acceptance8_plot/vsmb3dz_TMLastStationTight.pdf>
+<fig/acceptance8_plot/vsme2dr_TMLastStationTight.pdf, id=7956, 316.18124pt x 56
+9.12625pt>
+File: fig/acceptance8_plot/vsme2dr_TMLastStationTight.pdf Graphic file (type pd
+f)
+ <use fig/acceptance8_plot/vsme2dr_TMLastStationTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 811--813
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/mb3_TMOneStationAngLoose.pdf, id=7957, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance8_plot/mb3_TMOneStationAngLoose.pdf Graphic file (type pdf)
+
+ <use fig/acceptance8_plot/mb3_TMOneStationAngLoose.pdf>
+<fig/acceptance8_plot/me2_TMOneStationAngLoose.pdf, id=7958, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance8_plot/me2_TMOneStationAngLoose.pdf Graphic file (type pdf)
+
+ <use fig/acceptance8_plot/me2_TMOneStationAngLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 818--820
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dphi_TMOneStationAngLoose.pdf, id=7959, 316.18124pt 
+x 569.12625pt>
+File: fig/acceptance8_plot/vsmb3dphi_TMOneStationAngLoose.pdf Graphic file (typ
+e pdf)
+ <use fig/acceptance8_plot/vsmb3dphi_TMOneStationAngLoose.pdf>
+<fig/acceptance8_plot/vsme2dphi_TMOneStationAngLoose.pdf, id=7960, 316.18124pt 
+x 569.12625pt>
+File: fig/acceptance8_plot/vsme2dphi_TMOneStationAngLoose.pdf Graphic file (typ
+e pdf)
+ <use fig/acceptance8_plot/vsme2dphi_TMOneStationAngLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 821--823
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dz_TMOneStationAngLoose.pdf, id=7961, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance8_plot/vsmb3dz_TMOneStationAngLoose.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance8_plot/vsmb3dz_TMOneStationAngLoose.pdf>
+<fig/acceptance8_plot/vsme2dr_TMOneStationAngLoose.pdf, id=7962, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance8_plot/vsme2dr_TMOneStationAngLoose.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance8_plot/vsme2dr_TMOneStationAngLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 824--826
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/mb3_TMOneStationAngTight.pdf, id=7963, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance8_plot/mb3_TMOneStationAngTight.pdf Graphic file (type pdf)
+
+ <use fig/acceptance8_plot/mb3_TMOneStationAngTight.pdf>
+<fig/acceptance8_plot/me2_TMOneStationAngTight.pdf, id=7964, 316.18124pt x 569.
+12625pt>
+File: fig/acceptance8_plot/me2_TMOneStationAngTight.pdf Graphic file (type pdf)
+
+ <use fig/acceptance8_plot/me2_TMOneStationAngTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 831--833
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dphi_TMOneStationAngTight.pdf, id=7965, 316.18124pt 
+x 569.12625pt>
+File: fig/acceptance8_plot/vsmb3dphi_TMOneStationAngTight.pdf Graphic file (typ
+e pdf)
+ <use fig/acceptance8_plot/vsmb3dphi_TMOneStationAngTight.pdf>
+<fig/acceptance8_plot/vsme2dphi_TMOneStationAngTight.pdf, id=7966, 316.18124pt 
+x 569.12625pt>
+File: fig/acceptance8_plot/vsme2dphi_TMOneStationAngTight.pdf Graphic file (typ
+e pdf)
+ <use fig/acceptance8_plot/vsme2dphi_TMOneStationAngTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 834--836
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dz_TMOneStationAngTight.pdf, id=7967, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance8_plot/vsmb3dz_TMOneStationAngTight.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance8_plot/vsmb3dz_TMOneStationAngTight.pdf>
+<fig/acceptance8_plot/vsme2dr_TMOneStationAngTight.pdf, id=7968, 316.18124pt x 
+569.12625pt>
+File: fig/acceptance8_plot/vsme2dr_TMOneStationAngTight.pdf Graphic file (type 
+pdf)
+ <use fig/acceptance8_plot/vsme2dr_TMOneStationAngTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 837--839
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/mb3_TMLastStationAngLoose.pdf, id=7969, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/mb3_TMLastStationAngLoose.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/mb3_TMLastStationAngLoose.pdf>
+<fig/acceptance8_plot/me2_TMLastStationAngLoose.pdf, id=7970, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/me2_TMLastStationAngLoose.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/me2_TMLastStationAngLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 844--846
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dphi_TMLastStationAngLoose.pdf, id=7971, 316.18124pt
+ x 569.12625pt>
+File: fig/acceptance8_plot/vsmb3dphi_TMLastStationAngLoose.pdf Graphic file (ty
+pe pdf)
+ <use fig/acceptance8_plot/vsmb3dphi_TMLastStationAngLoose.pdf>
+<fig/acceptance8_plot/vsme2dphi_TMLastStationAngLoose.pdf, id=7972, 316.18124pt
+ x 569.12625pt>
+File: fig/acceptance8_plot/vsme2dphi_TMLastStationAngLoose.pdf Graphic file (ty
+pe pdf)
+ <use fig/acceptance8_plot/vsme2dphi_TMLastStationAngLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 847--849
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dz_TMLastStationAngLoose.pdf, id=7973, 316.18124pt x
+ 569.12625pt>
+File: fig/acceptance8_plot/vsmb3dz_TMLastStationAngLoose.pdf Graphic file (type
+ pdf)
+ <use fig/acceptance8_plot/vsmb3dz_TMLastStationAngLoose.pdf>
+<fig/acceptance8_plot/vsme2dr_TMLastStationAngLoose.pdf, id=7974, 316.18124pt x
+ 569.12625pt>
+File: fig/acceptance8_plot/vsme2dr_TMLastStationAngLoose.pdf Graphic file (type
+ pdf)
+ <use fig/acceptance8_plot/vsme2dr_TMLastStationAngLoose.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 850--852
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/mb3_TMLastStationAngTight.pdf, id=7975, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/mb3_TMLastStationAngTight.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/mb3_TMLastStationAngTight.pdf>
+<fig/acceptance8_plot/me2_TMLastStationAngTight.pdf, id=7976, 316.18124pt x 569
+.12625pt>
+File: fig/acceptance8_plot/me2_TMLastStationAngTight.pdf Graphic file (type pdf
+)
+ <use fig/acceptance8_plot/me2_TMLastStationAngTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 857--859
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dphi_TMLastStationAngTight.pdf, id=7977, 316.18124pt
+ x 569.12625pt>
+File: fig/acceptance8_plot/vsmb3dphi_TMLastStationAngTight.pdf Graphic file (ty
+pe pdf)
+ <use fig/acceptance8_plot/vsmb3dphi_TMLastStationAngTight.pdf>
+<fig/acceptance8_plot/vsme2dphi_TMLastStationAngTight.pdf, id=7978, 316.18124pt
+ x 569.12625pt>
+File: fig/acceptance8_plot/vsme2dphi_TMLastStationAngTight.pdf Graphic file (ty
+pe pdf)
+ <use fig/acceptance8_plot/vsme2dphi_TMLastStationAngTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 860--862
+[][] [] 
+ []
+
+
+<fig/acceptance8_plot/vsmb3dz_TMLastStationAngTight.pdf, id=7979, 316.18124pt x
+ 569.12625pt>
+File: fig/acceptance8_plot/vsmb3dz_TMLastStationAngTight.pdf Graphic file (type
+ pdf)
+ <use fig/acceptance8_plot/vsmb3dz_TMLastStationAngTight.pdf>
+<fig/acceptance8_plot/vsme2dr_TMLastStationAngTight.pdf, id=7980, 316.18124pt x
+ 569.12625pt>
+File: fig/acceptance8_plot/vsme2dr_TMLastStationAngTight.pdf Graphic file (type
+ pdf)
+ <use fig/acceptance8_plot/vsme2dr_TMLastStationAngTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 863--865
+[][] [] 
+ []
+
+<fig/acceptance5_plot/dispvert.pdf, id=7981, 316.18124pt x 569.12625pt>
+File: fig/acceptance5_plot/dispvert.pdf Graphic file (type pdf)
+
+<use fig/acceptance5_plot/dispvert.pdf>
+<fig/acceptance5_plot/dispvert_vs_dispz.pdf, id=7982, 316.18124pt x 569.12625pt
+>
+File: fig/acceptance5_plot/dispvert_vs_dispz.pdf Graphic file (type pdf)
+ <use fig/acceptance5_plot/dispvert_vs_dispz.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 874--876
+[][] [] 
+ []
+
+[32
+
+] [33 <./fig/acceptance8_plot/mb3_PlainTrackerMuon.pdf> <./fig/acceptance8_plot
+/me2_PlainTrackerMuon.pdf> <./fig/acceptance8_plot/vsmb3dphi_PlainTrackerMuon.p
+df> <./fig/acceptance8_plot/vsme2dphi_PlainTrackerMuon.pdf> <./fig/acceptance8_
+plot/vsmb3dz_PlainTrackerMuon.pdf> <./fig/acceptance8_plot/vsme2dr_PlainTracker
+Muon.pdf>] [34 <./fig/acceptance8_plot/mb3_PlainGlobalMuon.pdf> <./fig/acceptan
+ce8_plot/me2_PlainGlobalMuon.pdf> <./fig/acceptance8_plot/vsmb3dphi_PlainGlobal
+Muon.pdf> <./fig/acceptance8_plot/vsme2dphi_PlainGlobalMuon.pdf> <./fig/accepta
+nce8_plot/vsmb3dz_PlainGlobalMuon.pdf> <./fig/acceptance8_plot/vsme2dr_PlainGlo
+balMuon.pdf>] [35 <./fig/acceptance8_plot/mb3_GlobalMuonMaxChi5.pdf> <./fig/acc
+eptance8_plot/me2_GlobalMuonMaxChi5.pdf> <./fig/acceptance8_plot/vsmb3dphi_Glob
+alMuonMaxChi5.pdf> <./fig/acceptance8_plot/vsme2dphi_GlobalMuonMaxChi5.pdf> <./
+fig/acceptance8_plot/vsmb3dz_GlobalMuonMaxChi5.pdf> <./fig/acceptance8_plot/vsm
+e2dr_GlobalMuonMaxChi5.pdf>] [36 <./fig/acceptance8_plot/mb3_TMOneStationLoose.
+pdf> <./fig/acceptance8_plot/me2_TMOneStationLoose.pdf> <./fig/acceptance8_plot
+/vsmb3dphi_TMOneStationLoose.pdf> <./fig/acceptance8_plot/vsme2dphi_TMOneStatio
+nLoose.pdf> <./fig/acceptance8_plot/vsmb3dz_TMOneStationLoose.pdf> <./fig/accep
+tance8_plot/vsme2dr_TMOneStationLoose.pdf>] [37 <./fig/acceptance8_plot/mb3_TMO
+neStationTight.pdf> <./fig/acceptance8_plot/me2_TMOneStationTight.pdf> <./fig/a
+cceptance8_plot/vsmb3dphi_TMOneStationTight.pdf> <./fig/acceptance8_plot/vsme2d
+phi_TMOneStationTight.pdf> <./fig/acceptance8_plot/vsmb3dz_TMOneStationTight.pd
+f> <./fig/acceptance8_plot/vsme2dr_TMOneStationTight.pdf>] [38 <./fig/acceptanc
+e8_plot/mb3_TMLastStationLoose.pdf> <./fig/acceptance8_plot/me2_TMLastStationLo
+ose.pdf> <./fig/acceptance8_plot/vsmb3dphi_TMLastStationLoose.pdf> <./fig/accep
+tance8_plot/vsme2dphi_TMLastStationLoose.pdf> <./fig/acceptance8_plot/vsmb3dz_T
+MLastStationLoose.pdf> <./fig/acceptance8_plot/vsme2dr_TMLastStationLoose.pdf>]
+ [39 <./fig/acceptance8_plot/mb3_TMLastStationTight.pdf> <./fig/acceptance8_plo
+t/me2_TMLastStationTight.pdf> <./fig/acceptance8_plot/vsmb3dphi_TMLastStationTi
+ght.pdf> <./fig/acceptance8_plot/vsme2dphi_TMLastStationTight.pdf> <./fig/accep
+tance8_plot/vsmb3dz_TMLastStationTight.pdf> <./fig/acceptance8_plot/vsme2dr_TML
+astStationTight.pdf>] [40 <./fig/acceptance8_plot/mb3_TMOneStationAngLoose.pdf>
+ <./fig/acceptance8_plot/me2_TMOneStationAngLoose.pdf> <./fig/acceptance8_plot/
+vsmb3dphi_TMOneStationAngLoose.pdf> <./fig/acceptance8_plot/vsme2dphi_TMOneStat
+ionAngLoose.pdf> <./fig/acceptance8_plot/vsmb3dz_TMOneStationAngLoose.pdf> <./f
+ig/acceptance8_plot/vsme2dr_TMOneStationAngLoose.pdf>] [41 <./fig/acceptance8_p
+lot/mb3_TMOneStationAngTight.pdf> <./fig/acceptance8_plot/me2_TMOneStationAngTi
+ght.pdf> <./fig/acceptance8_plot/vsmb3dphi_TMOneStationAngTight.pdf> <./fig/acc
+eptance8_plot/vsme2dphi_TMOneStationAngTight.pdf> <./fig/acceptance8_plot/vsmb3
+dz_TMOneStationAngTight.pdf> <./fig/acceptance8_plot/vsme2dr_TMOneStationAngTig
+ht.pdf>] [42 <./fig/acceptance8_plot/mb3_TMLastStationAngLoose.pdf> <./fig/acce
+ptance8_plot/me2_TMLastStationAngLoose.pdf> <./fig/acceptance8_plot/vsmb3dphi_T
+MLastStationAngLoose.pdf> <./fig/acceptance8_plot/vsme2dphi_TMLastStationAngLoo
+se.pdf> <./fig/acceptance8_plot/vsmb3dz_TMLastStationAngLoose.pdf> <./fig/accep
+tance8_plot/vsme2dr_TMLastStationAngLoose.pdf>] [43 <./fig/acceptance8_plot/mb3
+_TMLastStationAngTight.pdf> <./fig/acceptance8_plot/me2_TMLastStationAngTight.p
+df> <./fig/acceptance8_plot/vsmb3dphi_TMLastStationAngTight.pdf> <./fig/accepta
+nce8_plot/vsme2dphi_TMLastStationAngTight.pdf> <./fig/acceptance8_plot/vsmb3dz_
+TMLastStationAngTight.pdf> <./fig/acceptance8_plot/vsme2dr_TMLastStationAngTigh
+t.pdf>] [44 <./fig/acceptance5_plot/dispvert.pdf> <./fig/acceptance5_plot/dispv
+ert_vs_dispz.pdf>]
+<fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaR.pdf, id=10907, 316.1812
+4pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaR.pdf Graphic file (
+type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaR.pdf>
+<fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaR.pdf, id=10908, 316.18124p
+t x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaR.pdf Graphic file (ty
+pe pdf)
+
+<use fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaR.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 896--898
+[][] [] 
+ []
+
+
+<fig/acceptance2_plot/mergingeff_recomass_GroupByMass.pdf, id=10909, 316.18124p
+t x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recomass_GroupByMass.pdf Graphic file (ty
+pe pdf)
+
+<use fig/acceptance2_plot/mergingeff_recomass_GroupByMass.pdf>
+<fig/acceptance2_plot/mergingeff_recodr_GroupByMass.pdf, id=10910, 316.18124pt 
+x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recodr_GroupByMass.pdf Graphic file (type
+ pdf)
+ <use fig/acceptance2_plot/mergingeff_recodr_GroupByMass.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 899--901
+[][] [] 
+ []
+
+
+<fig/acceptance2_plot/mergingeff_recomass_GroupByVertexProb.pdf, id=10911, 316.
+18124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recomass_GroupByVertexProb.pdf Graphic fi
+le (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recomass_GroupByVertexProb.pdf>
+<fig/acceptance2_plot/mergingeff_recodr_GroupByVertexProb.pdf, id=10912, 316.18
+124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recodr_GroupByVertexProb.pdf Graphic file
+ (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recodr_GroupByVertexProb.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 902--909
+[][] [] 
+ []
+
+
+<fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaRAndVertexProb.pdf, id=10
+917, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaRAndVertexProb.pdf G
+raphic file (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaRAndVertexProb.pdf>
+<fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaRAndVertexProb.pdf, id=1091
+8, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaRAndVertexProb.pdf Gra
+phic file (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaRAndVertexProb.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 913--915
+[][] [] 
+ []
+
+
+<fig/acceptance2_plot/mergingeff_recomass_GroupByMassAndVertexProb.pdf, id=1091
+9, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recomass_GroupByMassAndVertexProb.pdf Gra
+phic file (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recomass_GroupByMassAndVertexProb.pdf>
+<fig/acceptance2_plot/mergingeff_recodr_GroupByMassAndVertexProb.pdf, id=10920,
+ 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recodr_GroupByMassAndVertexProb.pdf Graph
+ic file (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recodr_GroupByMassAndVertexProb.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 916--923
+[][] [] 
+ []
+
+
+<fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaROrMass.pdf, id=10925, 31
+6.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaROrMass.pdf Graphic 
+file (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaROrMass.pdf>
+<fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaROrMass.pdf, id=10926, 316.
+18124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaROrMass.pdf Graphic fi
+le (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaROrMass.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 927--929
+[][] [] 
+ []
+
+
+<fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaROrMassAndVertexProb.pdf,
+ id=10927, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaROrMassAndVertexProb
+.pdf Graphic file (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaROrMassAndVertexProb.
+pdf>
+<fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaROrMassAndVertexProb.pdf, i
+d=10928, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaROrMassAndVertexProb.p
+df Graphic file (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recodr_GroupByDeltaROrMassAndVertexProb.pd
+f>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 930--932
+[][] [] 
+ []
+
+
+<fig/acceptance2_plot/mergingeff_recomass_GroupByMassAndVertexProbOrDeltaR.pdf,
+ id=10929, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recomass_GroupByMassAndVertexProbOrDeltaR
+.pdf Graphic file (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recomass_GroupByMassAndVertexProbOrDeltaR.
+pdf>
+<fig/acceptance2_plot/mergingeff_recodr_GroupByMassAndVertexProbOrDeltaR.pdf, i
+d=10930, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/mergingeff_recodr_GroupByMassAndVertexProbOrDeltaR.p
+df Graphic file (type pdf)
+
+<use fig/acceptance2_plot/mergingeff_recodr_GroupByMassAndVertexProbOrDeltaR.pd
+f>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 933--940
+[][] [] 
+ []
+
+
+<fig/acceptance2_plot/vertexProb_vs_mass.pdf, id=10935, 316.18124pt x 569.12625
+pt>
+File: fig/acceptance2_plot/vertexProb_vs_mass.pdf Graphic file (type pdf)
+ <use fig/acceptance2_plot/vertexProb_vs_mass.pdf>
+<fig/acceptance2_plot/dr_vs_mass.pdf, id=10936, 316.18124pt x 569.12625pt>
+File: fig/acceptance2_plot/dr_vs_mass.pdf Graphic file (type pdf)
+
+<use fig/acceptance2_plot/dr_vs_mass.pdf>
+<fig/acceptance3_plot/foundopening_TrackerMuonsGroupByMassAndVertexProbOrDeltaR
+.pdf, id=10937, 315.1775pt x 569.12625pt>
+File: fig/acceptance3_plot/foundopening_TrackerMuonsGroupByMassAndVertexProbOrD
+eltaR.pdf Graphic file (type pdf)
+
+<use fig/acceptance3_plot/foundopening_TrackerMuonsGroupByMassAndVertexProbOrDe
+ltaR.pdf>
+<fig/acceptance3_plot/foundmass_TrackerMuonsGroupByMassAndVertexProbOrDeltaR.pd
+f, id=10938, 315.1775pt x 569.12625pt>
+File: fig/acceptance3_plot/foundmass_TrackerMuonsGroupByMassAndVertexProbOrDelt
+aR.pdf Graphic file (type pdf)
+
+<use fig/acceptance3_plot/foundmass_TrackerMuonsGroupByMassAndVertexProbOrDelta
+R.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 970--972
+[][] [] 
+ []
+
+
+<fig/acceptance3_plot/foundopening_GlobalMuonsGroupByMassAndVertexProbOrDeltaR.
+pdf, id=10939, 315.1775pt x 569.12625pt>
+File: fig/acceptance3_plot/foundopening_GlobalMuonsGroupByMassAndVertexProbOrDe
+ltaR.pdf Graphic file (type pdf)
+
+<use fig/acceptance3_plot/foundopening_GlobalMuonsGroupByMassAndVertexProbOrDel
+taR.pdf>
+<fig/acceptance3_plot/foundmass_GlobalMuonsGroupByMassAndVertexProbOrDeltaR.pdf
+, id=10940, 315.1775pt x 569.12625pt>
+File: fig/acceptance3_plot/foundmass_GlobalMuonsGroupByMassAndVertexProbOrDelta
+R.pdf Graphic file (type pdf)
+
+<use fig/acceptance3_plot/foundmass_GlobalMuonsGroupByMassAndVertexProbOrDeltaR
+.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 973--975
+[][] [] 
+ []
+
+
+<fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrDeltaR
+.pdf, id=10941, 316.18124pt x 569.12625pt>
+File: fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrD
+eltaR.pdf Graphic file (type pdf)
+
+<use fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrDe
+ltaR.pdf>
+<fig/acceptance4_plot/toomanymuons_GlobalMuonsGroupByMassAndVertexProbOrDeltaR.
+pdf, id=10942, 316.18124pt x 569.12625pt>
+File: fig/acceptance4_plot/toomanymuons_GlobalMuonsGroupByMassAndVertexProbOrDe
+ltaR.pdf Graphic file (type pdf)
+
+<use fig/acceptance4_plot/toomanymuons_GlobalMuonsGroupByMassAndVertexProbOrDel
+taR.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1002--1004
+[][] [] 
+ []
+
+
+<fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrDeltaR
+_pileup.pdf, id=10943, 316.18124pt x 569.12625pt>
+File: fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrD
+eltaR_pileup.pdf Graphic file (type pdf)
+
+<use fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrDe
+ltaR_pileup.pdf>
+<fig/acceptance4_plot/toomanymuons_GlobalMuonsGroupByMassAndVertexProbOrDeltaR_
+pileup.pdf, id=10944, 316.18124pt x 569.12625pt>
+File: fig/acceptance4_plot/toomanymuons_GlobalMuonsGroupByMassAndVertexProbOrDe
+ltaR_pileup.pdf Graphic file (type pdf)
+
+<use fig/acceptance4_plot/toomanymuons_GlobalMuonsGroupByMassAndVertexProbOrDel
+taR_pileup.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1005--1007
+[][] [] 
+ []
+
+
+<fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrDeltaR
+_pileup5.pdf, id=10945, 316.18124pt x 569.12625pt>
+File: fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrD
+eltaR_pileup5.pdf Graphic file (type pdf)
+
+<use fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrDe
+ltaR_pileup5.pdf>
+<fig/acceptance4_plot/toomanymuons_GlobalMuonsGroupByMassAndVertexProbOrDeltaR_
+pileup5.pdf, id=10946, 316.18124pt x 569.12625pt>
+File: fig/acceptance4_plot/toomanymuons_GlobalMuonsGroupByMassAndVertexProbOrDe
+ltaR_pileup5.pdf Graphic file (type pdf)
+
+<use fig/acceptance4_plot/toomanymuons_GlobalMuonsGroupByMassAndVertexProbOrDel
+taR_pileup5.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1008--1010
+[][] [] 
+ []
+
+File: fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrD
+eltaR_pileup5.pdf Graphic file (type pdf)
+
+<use fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrDe
+ltaR_pileup5.pdf>
+<fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByDeltaROrMass_pileup5.pdf,
+ id=10947, 316.18124pt x 569.12625pt>
+File: fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByDeltaROrMass_pileup5
+.pdf Graphic file (type pdf)
+
+<use fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByDeltaROrMass_pileup5.
+pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1024--1026
+[][] [] 
+ []
+
+[45
+
+] [46 <./fig/acceptance2_plot/mergingeff_recomass_GroupByDeltaR.pdf> <./fig/acc
+eptance2_plot/mergingeff_recodr_GroupByDeltaR.pdf> <./fig/acceptance2_plot/merg
+ingeff_recomass_GroupByMass.pdf> <./fig/acceptance2_plot/mergingeff_recodr_Grou
+pByMass.pdf> <./fig/acceptance2_plot/mergingeff_recomass_GroupByVertexProb.pdf>
+ <./fig/acceptance2_plot/mergingeff_recodr_GroupByVertexProb.pdf>] [47 <./fig/a
+cceptance2_plot/mergingeff_recomass_GroupByDeltaRAndVertexProb.pdf> <./fig/acce
+ptance2_plot/mergingeff_recodr_GroupByDeltaRAndVertexProb.pdf> <./fig/acceptanc
+e2_plot/mergingeff_recomass_GroupByMassAndVertexProb.pdf> <./fig/acceptance2_pl
+ot/mergingeff_recodr_GroupByMassAndVertexProb.pdf>] [48 <./fig/acceptance2_plot
+/mergingeff_recomass_GroupByDeltaROrMass.pdf> <./fig/acceptance2_plot/mergingef
+f_recodr_GroupByDeltaROrMass.pdf> <./fig/acceptance2_plot/mergingeff_recomass_G
+roupByDeltaROrMassAndVertexProb.pdf> <./fig/acceptance2_plot/mergingeff_recodr_
+GroupByDeltaROrMassAndVertexProb.pdf> <./fig/acceptance2_plot/mergingeff_recoma
+ss_GroupByMassAndVertexProbOrDeltaR.pdf> <./fig/acceptance2_plot/mergingeff_rec
+odr_GroupByMassAndVertexProbOrDeltaR.pdf>] [49 <./fig/acceptance2_plot/vertexPr
+ob_vs_mass.pdf> <./fig/acceptance2_plot/dr_vs_mass.pdf>] [50 <./fig/acceptance3
+_plot/foundopening_TrackerMuonsGroupByMassAndVertexProbOrDeltaR.pdf> <./fig/acc
+eptance3_plot/foundmass_TrackerMuonsGroupByMassAndVertexProbOrDeltaR.pdf> <./fi
+g/acceptance3_plot/foundopening_GlobalMuonsGroupByMassAndVertexProbOrDeltaR.pdf
+> <./fig/acceptance3_plot/foundmass_GlobalMuonsGroupByMassAndVertexProbOrDeltaR
+.pdf>] [51 <./fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByMassAndVerte
+xProbOrDeltaR.pdf> <./fig/acceptance4_plot/toomanymuons_GlobalMuonsGroupByMassA
+ndVertexProbOrDeltaR.pdf> <./fig/acceptance4_plot/toomanymuons_TrackerMuonsGrou
+pByMassAndVertexProbOrDeltaR_pileup.pdf> <./fig/acceptance4_plot/toomanymuons_G
+lobalMuonsGroupByMassAndVertexProbOrDeltaR_pileup.pdf> <./fig/acceptance4_plot/
+toomanymuons_TrackerMuonsGroupByMassAndVertexProbOrDeltaR_pileup5.pdf> <./fig/a
+cceptance4_plot/toomanymuons_GlobalMuonsGroupByMassAndVertexProbOrDeltaR_pileup
+5.pdf>] [52 <./fig/acceptance4_plot/toomanymuons_TrackerMuonsGroupByDeltaROrMas
+s_pileup5.pdf>]
+<fig/backgroundsMatching_plot/qscale.pdf, id=12209, 316.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/qscale.pdf Graphic file (type pdf)
+
+<use fig/backgroundsMatching_plot/qscale.pdf>
+<fig/backgroundsMatching_plot/log10qscale.pdf, id=12210, 316.18124pt x 569.1262
+5pt>
+File: fig/backgroundsMatching_plot/log10qscale.pdf Graphic file (type pdf)
+ <use fig/backgroundsMatching_plot/log10qscale.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1040--1042
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/nmuons_real.pdf, id=12211, 316.18124pt x 569.1262
+5pt>
+File: fig/backgroundsMatching_plot/nmuons_real.pdf Graphic file (type pdf)
+ <use fig/backgroundsMatching_plot/nmuons_real.pdf>
+<fig/backgrounds_plot/nmuons_real.pdf, id=12212, 316.18124pt x 569.12625pt>
+File: fig/backgrounds_plot/nmuons_real.pdf Graphic file (type pdf)
+
+<use fig/backgrounds_plot/nmuons_real.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1047--1049
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_cuts_0real.pdf, id=12213, 316.18124pt x 56
+9.12625pt>
+File: fig/backgroundsMatching_plot/tracks_cuts_0real.pdf Graphic file (type pdf
+)
+ <use fig/backgroundsMatching_plot/tracks_cuts_0real.pdf>
+<fig/backgroundsMatching_plot/tracks_cuts_1real.pdf, id=12214, 316.18124pt x 56
+9.12625pt>
+File: fig/backgroundsMatching_plot/tracks_cuts_1real.pdf Graphic file (type pdf
+)
+ <use fig/backgroundsMatching_plot/tracks_cuts_1real.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1054--1056
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_cuts_2real.pdf, id=12215, 316.18124pt x 56
+9.12625pt>
+File: fig/backgroundsMatching_plot/tracks_cuts_2real.pdf Graphic file (type pdf
+)
+ <use fig/backgroundsMatching_plot/tracks_cuts_2real.pdf>
+<fig/backgroundsMatching_plot/tracks_cuts_3real.pdf, id=12216, 316.18124pt x 56
+9.12625pt>
+File: fig/backgroundsMatching_plot/tracks_cuts_3real.pdf Graphic file (type pdf
+)
+ <use fig/backgroundsMatching_plot/tracks_cuts_3real.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1057--1059
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_cuts_4real.pdf, id=12217, 316.18124pt x 56
+9.12625pt>
+File: fig/backgroundsMatching_plot/tracks_cuts_4real.pdf Graphic file (type pdf
+)
+ <use fig/backgroundsMatching_plot/tracks_cuts_4real.pdf>
+<fig/backgroundsMatching_plot/tracks_cuts_allreal.pdf, id=12218, 316.18124pt x 
+569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_cuts_allreal.pdf Graphic file (type p
+df)
+ <use fig/backgroundsMatching_plot/tracks_cuts_allreal.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1060--1062
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_selectors_0real.pdf, id=12221, 316.18124pt
+ x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_selectors_0real.pdf Graphic file (typ
+e pdf)
+ <use fig/backgroundsMatching_plot/tracks_selectors_0real.pdf>
+<fig/backgroundsMatching_plot/tracks_selectors_1real.pdf, id=12222, 316.18124pt
+ x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_selectors_1real.pdf Graphic file (typ
+e pdf)
+ <use fig/backgroundsMatching_plot/tracks_selectors_1real.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1067--1069
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_selectors_2real.pdf, id=12223, 316.18124pt
+ x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_selectors_2real.pdf Graphic file (typ
+e pdf)
+ <use fig/backgroundsMatching_plot/tracks_selectors_2real.pdf>
+<fig/backgroundsMatching_plot/tracks_selectors_3real.pdf, id=12224, 316.18124pt
+ x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_selectors_3real.pdf Graphic file (typ
+e pdf)
+ <use fig/backgroundsMatching_plot/tracks_selectors_3real.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1070--1072
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_selectors_4real.pdf, id=12225, 316.18124pt
+ x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_selectors_4real.pdf Graphic file (typ
+e pdf)
+ <use fig/backgroundsMatching_plot/tracks_selectors_4real.pdf>
+<fig/backgroundsMatching_plot/tracks_selectors_allreal.pdf, id=12226, 316.18124
+pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_selectors_allreal.pdf Graphic file (t
+ype pdf)
+
+<use fig/backgroundsMatching_plot/tracks_selectors_allreal.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1073--1075
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_global_0real.pdf, id=12229, 316.18124pt x 
+569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_global_0real.pdf Graphic file (type p
+df)
+ <use fig/backgroundsMatching_plot/tracks_global_0real.pdf>
+<fig/backgroundsMatching_plot/tracks_global_1real.pdf, id=12230, 316.18124pt x 
+569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_global_1real.pdf Graphic file (type p
+df)
+ <use fig/backgroundsMatching_plot/tracks_global_1real.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1080--1082
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_global_2real.pdf, id=12231, 316.18124pt x 
+569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_global_2real.pdf Graphic file (type p
+df)
+ <use fig/backgroundsMatching_plot/tracks_global_2real.pdf>
+<fig/backgroundsMatching_plot/tracks_global_3real.pdf, id=12232, 316.18124pt x 
+569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_global_3real.pdf Graphic file (type p
+df)
+ <use fig/backgroundsMatching_plot/tracks_global_3real.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1083--1085
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_global_4real.pdf, id=12233, 316.18124pt x 
+569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_global_4real.pdf Graphic file (type p
+df)
+ <use fig/backgroundsMatching_plot/tracks_global_4real.pdf>
+<fig/backgroundsMatching_plot/tracks_global_allreal.pdf, id=12234, 316.18124pt 
+x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_global_allreal.pdf Graphic file (type
+ pdf)
+ <use fig/backgroundsMatching_plot/tracks_global_allreal.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1086--1088
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_samepage_0real.pdf, id=12237, 316.18124pt 
+x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_samepage_0real.pdf Graphic file (type
+ pdf)
+ <use fig/backgroundsMatching_plot/tracks_samepage_0real.pdf>
+<fig/backgroundsMatching_plot/tracks_samepage_1real.pdf, id=12238, 316.18124pt 
+x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_samepage_1real.pdf Graphic file (type
+ pdf)
+ <use fig/backgroundsMatching_plot/tracks_samepage_1real.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1093--1095
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_samepage_2real.pdf, id=12239, 316.18124pt 
+x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_samepage_2real.pdf Graphic file (type
+ pdf)
+ <use fig/backgroundsMatching_plot/tracks_samepage_2real.pdf>
+<fig/backgroundsMatching_plot/tracks_samepage_3real.pdf, id=12240, 316.18124pt 
+x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_samepage_3real.pdf Graphic file (type
+ pdf)
+ <use fig/backgroundsMatching_plot/tracks_samepage_3real.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1096--1098
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/tracks_samepage_4real.pdf, id=12241, 316.18124pt 
+x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_samepage_4real.pdf Graphic file (type
+ pdf)
+ <use fig/backgroundsMatching_plot/tracks_samepage_4real.pdf>
+<fig/backgroundsMatching_plot/tracks_samepage_allreal.pdf, id=12242, 316.18124p
+t x 569.12625pt>
+File: fig/backgroundsMatching_plot/tracks_samepage_allreal.pdf Graphic file (ty
+pe pdf)
+
+<use fig/backgroundsMatching_plot/tracks_samepage_allreal.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1099--1101
+[][] [] 
+ []
+
+[53
+
+ <./fig/backgroundsMatching_plot/qscale.pdf> <./fig/backgroundsMatching_plot/lo
+g10qscale.pdf> <./fig/backgroundsMatching_plot/nmuons_real.pdf> <./fig/backgrou
+nds_plot/nmuons_real.pdf>] [54 <./fig/backgroundsMatching_plot/tracks_cuts_0rea
+l.pdf> <./fig/backgroundsMatching_plot/tracks_cuts_1real.pdf> <./fig/background
+sMatching_plot/tracks_cuts_2real.pdf> <./fig/backgroundsMatching_plot/tracks_cu
+ts_3real.pdf> <./fig/backgroundsMatching_plot/tracks_cuts_4real.pdf> <./fig/bac
+kgroundsMatching_plot/tracks_cuts_allreal.pdf>] [55 <./fig/backgroundsMatching_
+plot/tracks_selectors_0real.pdf> <./fig/backgroundsMatching_plot/tracks_selecto
+rs_1real.pdf> <./fig/backgroundsMatching_plot/tracks_selectors_2real.pdf> <./fi
+g/backgroundsMatching_plot/tracks_selectors_3real.pdf> <./fig/backgroundsMatchi
+ng_plot/tracks_selectors_4real.pdf> <./fig/backgroundsMatching_plot/tracks_sele
+ctors_allreal.pdf>] [56 <./fig/backgroundsMatching_plot/tracks_global_0real.pdf
+> <./fig/backgroundsMatching_plot/tracks_global_1real.pdf> <./fig/backgroundsMa
+tching_plot/tracks_global_2real.pdf> <./fig/backgroundsMatching_plot/tracks_glo
+bal_3real.pdf> <./fig/backgroundsMatching_plot/tracks_global_4real.pdf> <./fig/
+backgroundsMatching_plot/tracks_global_allreal.pdf>] [57 <./fig/backgroundsMatc
+hing_plot/tracks_samepage_0real.pdf> <./fig/backgroundsMatching_plot/tracks_sam
+epage_1real.pdf> <./fig/backgroundsMatching_plot/tracks_samepage_2real.pdf> <./
+fig/backgroundsMatching_plot/tracks_samepage_3real.pdf> <./fig/backgroundsMatch
+ing_plot/tracks_samepage_4real.pdf> <./fig/backgroundsMatching_plot/tracks_same
+page_allreal.pdf>]
+<fig/backgroundsMatching_plot/ptcurves_real.pdf, id=13449, 316.18124pt x 569.12
+625pt>
+File: fig/backgroundsMatching_plot/ptcurves_real.pdf Graphic file (type pdf)
+ <use fig/backgroundsMatching_plot/ptcurves_real.pdf>
+<fig/backgroundsMatching_plot/etacurves_real.pdf, id=13450, 316.18124pt x 569.1
+2625pt>
+File: fig/backgroundsMatching_plot/etacurves_real.pdf Graphic file (type pdf)
+ <use fig/backgroundsMatching_plot/etacurves_real.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1108--1110
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_TrackerMuons.pdf, id=13451, 316.18124pt 
+x 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_TrackerMuons.pdf Graphic file (type
+ pdf)
+ <use fig/backgroundsMatching_plot/ptcurves_TrackerMuons.pdf>
+<fig/backgroundsMatching_plot/etacurves_TrackerMuons.pdf, id=13452, 316.18124pt
+ x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_TrackerMuons.pdf Graphic file (typ
+e pdf)
+ <use fig/backgroundsMatching_plot/etacurves_TrackerMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1115--1117
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_GoodTracker.pdf, id=13453, 316.18124pt x
+ 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_GoodTracker.pdf Graphic file (type 
+pdf)
+ <use fig/backgroundsMatching_plot/ptcurves_GoodTracker.pdf>
+<fig/backgroundsMatching_plot/etacurves_GoodTracker.pdf, id=13454, 316.18124pt 
+x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_GoodTracker.pdf Graphic file (type
+ pdf)
+ <use fig/backgroundsMatching_plot/etacurves_GoodTracker.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1122--1124
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_TwoChambers.pdf, id=13455, 316.18124pt x
+ 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_TwoChambers.pdf Graphic file (type 
+pdf)
+ <use fig/backgroundsMatching_plot/ptcurves_TwoChambers.pdf>
+<fig/backgroundsMatching_plot/etacurves_TwoChambers.pdf, id=13456, 316.18124pt 
+x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_TwoChambers.pdf Graphic file (type
+ pdf)
+ <use fig/backgroundsMatching_plot/etacurves_TwoChambers.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1129--1131
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_TwoChambersGoodTracker.pdf, id=13457, 31
+6.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_TwoChambersGoodTracker.pdf Graphic 
+file (type pdf)
+
+<use fig/backgroundsMatching_plot/ptcurves_TwoChambersGoodTracker.pdf>
+<fig/backgroundsMatching_plot/etacurves_TwoChambersGoodTracker.pdf, id=13458, 3
+16.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_TwoChambersGoodTracker.pdf Graphic
+ file (type pdf)
+
+<use fig/backgroundsMatching_plot/etacurves_TwoChambersGoodTracker.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1136--1138
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_TwoChambersGoodTrackerLastAng.pdf, id=13
+459, 316.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_TwoChambersGoodTrackerLastAng.pdf G
+raphic file (type pdf)
+
+<use fig/backgroundsMatching_plot/ptcurves_TwoChambersGoodTrackerLastAng.pdf>
+<fig/backgroundsMatching_plot/etacurves_TwoChambersGoodTrackerLastAng.pdf, id=1
+3460, 316.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_TwoChambersGoodTrackerLastAng.pdf 
+Graphic file (type pdf)
+
+<use fig/backgroundsMatching_plot/etacurves_TwoChambersGoodTrackerLastAng.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1143--1145
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_TMOneStationTight.pdf, id=13461, 316.181
+24pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_TMOneStationTight.pdf Graphic file 
+(type pdf)
+
+<use fig/backgroundsMatching_plot/ptcurves_TMOneStationTight.pdf>
+<fig/backgroundsMatching_plot/etacurves_TMOneStationTight.pdf, id=13462, 316.18
+124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_TMOneStationTight.pdf Graphic file
+ (type pdf)
+
+<use fig/backgroundsMatching_plot/etacurves_TMOneStationTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1150--1152
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_TMOneStationAngTight.pdf, id=13463, 316.
+18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_TMOneStationAngTight.pdf Graphic fi
+le (type pdf)
+
+<use fig/backgroundsMatching_plot/ptcurves_TMOneStationAngTight.pdf>
+<fig/backgroundsMatching_plot/etacurves_TMOneStationAngTight.pdf, id=13464, 316
+.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_TMOneStationAngTight.pdf Graphic f
+ile (type pdf)
+
+<use fig/backgroundsMatching_plot/etacurves_TMOneStationAngTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1157--1159
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_TMLastStationTight.pdf, id=13465, 316.18
+124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_TMLastStationTight.pdf Graphic file
+ (type pdf)
+
+<use fig/backgroundsMatching_plot/ptcurves_TMLastStationTight.pdf>
+<fig/backgroundsMatching_plot/etacurves_TMLastStationTight.pdf, id=13466, 316.1
+8124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_TMLastStationTight.pdf Graphic fil
+e (type pdf)
+
+<use fig/backgroundsMatching_plot/etacurves_TMLastStationTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1164--1166
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_TMLastStationAngTight.pdf, id=13467, 316
+.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_TMLastStationAngTight.pdf Graphic f
+ile (type pdf)
+
+<use fig/backgroundsMatching_plot/ptcurves_TMLastStationAngTight.pdf>
+<fig/backgroundsMatching_plot/etacurves_TMLastStationAngTight.pdf, id=13468, 31
+6.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_TMLastStationAngTight.pdf Graphic 
+file (type pdf)
+
+<use fig/backgroundsMatching_plot/etacurves_TMLastStationAngTight.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1171--1173
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_GlobalMuons.pdf, id=13469, 316.18124pt x
+ 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_GlobalMuons.pdf Graphic file (type 
+pdf)
+ <use fig/backgroundsMatching_plot/ptcurves_GlobalMuons.pdf>
+<fig/backgroundsMatching_plot/etacurves_GlobalMuons.pdf, id=13470, 316.18124pt 
+x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_GlobalMuons.pdf Graphic file (type
+ pdf)
+ <use fig/backgroundsMatching_plot/etacurves_GlobalMuons.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1178--1180
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_GlobalMuonsGoodTracker.pdf, id=13471, 31
+6.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_GlobalMuonsGoodTracker.pdf Graphic 
+file (type pdf)
+
+<use fig/backgroundsMatching_plot/ptcurves_GlobalMuonsGoodTracker.pdf>
+<fig/backgroundsMatching_plot/etacurves_GlobalMuonsGoodTracker.pdf, id=13472, 3
+16.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_GlobalMuonsGoodTracker.pdf Graphic
+ file (type pdf)
+
+<use fig/backgroundsMatching_plot/etacurves_GlobalMuonsGoodTracker.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1185--1187
+[][] [] 
+ []
+
+
+<fig/backgroundsMatching_plot/ptcurves_GlobalMuonsGoodTrackerMatch.pdf, id=1347
+3, 316.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/ptcurves_GlobalMuonsGoodTrackerMatch.pdf Gra
+phic file (type pdf)
+
+<use fig/backgroundsMatching_plot/ptcurves_GlobalMuonsGoodTrackerMatch.pdf>
+<fig/backgroundsMatching_plot/etacurves_GlobalMuonsGoodTrackerMatch.pdf, id=134
+74, 316.18124pt x 569.12625pt>
+File: fig/backgroundsMatching_plot/etacurves_GlobalMuonsGoodTrackerMatch.pdf Gr
+aphic file (type pdf)
+
+<use fig/backgroundsMatching_plot/etacurves_GlobalMuonsGoodTrackerMatch.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1192--1194
+[][] [] 
+ []
+
+<fig/acceptance3_plot/m12m34.pdf, id=13475, 316.18124pt x 569.12625pt>
+File: fig/acceptance3_plot/m12m34.pdf Graphic file (type pdf)
+
+<use fig/acceptance3_plot/m12m34.pdf>
+<fig/acceptance3_plot/mdiff_vs_mass.pdf, id=13476, 316.18124pt x 569.12625pt>
+File: fig/acceptance3_plot/mdiff_vs_mass.pdf Graphic file (type pdf)
+
+<use fig/acceptance3_plot/mdiff_vs_mass.pdf>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1201--1203
+[][] [] 
+ []
+
+[58
+
+ <./fig/backgroundsMatching_plot/ptcurves_real.pdf> <./fig/backgroundsMatching_
+plot/etacurves_real.pdf> <./fig/backgroundsMatching_plot/ptcurves_TrackerMuons.
+pdf> <./fig/backgroundsMatching_plot/etacurves_TrackerMuons.pdf>] [59 <./fig/ba
+ckgroundsMatching_plot/ptcurves_GoodTracker.pdf> <./fig/backgroundsMatching_plo
+t/etacurves_GoodTracker.pdf> <./fig/backgroundsMatching_plot/ptcurves_TwoChambe
+rs.pdf> <./fig/backgroundsMatching_plot/etacurves_TwoChambers.pdf> <./fig/backg
+roundsMatching_plot/ptcurves_TwoChambersGoodTracker.pdf> <./fig/backgroundsMatc
+hing_plot/etacurves_TwoChambersGoodTracker.pdf>] [60 <./fig/backgroundsMatching
+_plot/ptcurves_TwoChambersGoodTrackerLastAng.pdf> <./fig/backgroundsMatching_pl
+ot/etacurves_TwoChambersGoodTrackerLastAng.pdf> <./fig/backgroundsMatching_plot
+/ptcurves_TMOneStationTight.pdf> <./fig/backgroundsMatching_plot/etacurves_TMOn
+eStationTight.pdf> <./fig/backgroundsMatching_plot/ptcurves_TMOneStationAngTigh
+t.pdf> <./fig/backgroundsMatching_plot/etacurves_TMOneStationAngTight.pdf>]
+[61 <./fig/backgroundsMatching_plot/ptcurves_TMLastStationTight.pdf> <./fig/bac
+kgroundsMatching_plot/etacurves_TMLastStationTight.pdf> <./fig/backgroundsMatch
+ing_plot/ptcurves_TMLastStationAngTight.pdf> <./fig/backgroundsMatching_plot/et
+acurves_TMLastStationAngTight.pdf> <./fig/backgroundsMatching_plot/ptcurves_Glo
+balMuons.pdf> <./fig/backgroundsMatching_plot/etacurves_GlobalMuons.pdf>]
+[62 <./fig/backgroundsMatching_plot/ptcurves_GlobalMuonsGoodTracker.pdf> <./fig
+/backgroundsMatching_plot/etacurves_GlobalMuonsGoodTracker.pdf> <./fig/backgrou
+ndsMatching_plot/ptcurves_GlobalMuonsGoodTrackerMatch.pdf> <./fig/backgroundsMa
+tching_plot/etacurves_GlobalMuonsGoodTrackerMatch.pdf> <./fig/acceptance3_plot/
+m12m34.pdf> <./fig/acceptance3_plot/mdiff_vs_mass.pdf>] (./muonjets.aux) ) 
+Here is how much of TeX's memory you used:
+ 7113 strings out of 495061
+ 161565 string characters out of 1182621
+ 202219 words of memory out of 3000000
+ 9741 multiletter control sequences out of 15000+50000
+ 11017 words of font info for 40 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 38i,8n,36p,1193b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr
+/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texm
+f-texlive/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/p
+ublic/amsfonts/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+
+Output written on muonjets.pdf (62 pages, 8794017 bytes).
+PDF statistics:
+ 14767 PDF objects out of 15390 (max. 8388607)
+ 164 named destinations out of 1000 (max. 500000)
+ 1763 words of extra memory for PDF output out of 10000 (max. 10000000)
+
